@@ -1,0 +1,2699 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - generic [ref=e8] [cursor=pointer]: Save More on App
+      - link "Become a Seller" [ref=e10] [cursor=pointer]:
+        - /url: https://sellercenter.daraz.com.bd/v2/seller/login
+      - generic [ref=e11] [cursor=pointer]: Help & Support
+      - generic [ref=e13] [cursor=pointer]: "*******841's account"
+      - generic [ref=e14] [cursor=pointer]: ভাষা
+    - generic [ref=e16]:
+      - link "Online Shopping Daraz Logo" [ref=e18] [cursor=pointer]:
+        - /url: https://www.daraz.com.bd/
+        - img "Online Shopping Daraz Logo" [ref=e19]
+      - generic [ref=e23]:
+        - searchbox "Search in Daraz" [ref=e25]
+        - link "SEARCH" [ref=e27] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/catalog/?q=
+      - generic [ref=e28]:
+        - link:
+          - /url: https://cart.daraz.com.bd/cart
+          - img [ref=e30] [cursor=pointer]
+  - generic [ref=e41]:
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e46]:
+          - link [ref=e48] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/weekly-campaigns/paypent-partners1010
+            - img [ref=e51]
+          - link [ref=e53] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/whats-happening
+            - img [ref=e56]
+          - link [ref=e58] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/fashion-offers/-Bata-
+            - img [ref=e61]
+          - link [ref=e63] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/mm/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/flashsale/8r7TbxhpSH&hide_h5_title=true&lzd_navbar_hidden=true&disable_pull_refresh=true&disable_bounces=true
+            - img [ref=e66]
+          - link [ref=e68] [cursor=pointer]:
+            - /url: https://www.daraz.com.bd/shop/realme-official/?spm=a2a0e.pdp_revamp.seller.1.5cdf6a4bLww9m1&itemId=529225489&channelSource=pdp
+            - img [ref=e71]
+          - link [ref=e73] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/hot-deals
+            - img [ref=e76]
+          - link [ref=e78] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/fmcg-offers/ParachuteHairDiaries
+            - img [ref=e81]
+          - link [ref=e83] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/50-off
+            - img [ref=e86]
+          - link [ref=e88] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/new-arrivals
+            - img [ref=e91]
+          - link [ref=e93] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?spm=a2a0e.tm80357647.2492132680.1.5f3362b21Msys6&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/free-shipping/free-shipping
+            - img [ref=e96]
+          - link [ref=e98] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/budget-deals
+            - img [ref=e101]
+          - link [ref=e103] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/mega-deals
+            - img [ref=e106]
+        - text: .
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - img [ref=e126]
+          - generic [ref=e127]: Download the App
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - img [ref=e132]
+            - generic [ref=e133]: 4.8 Rated
+          - generic [ref=e135]: Download App
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - img [ref=e140]
+              - generic [ref=e141]: Free Delivery
+            - generic [ref=e142]:
+              - img [ref=e145]
+              - generic [ref=e146]: Limited Time
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - img [ref=e151]
+            - generic [ref=e152] [cursor=pointer]:
+              - link [ref=e153]:
+                - /url: https://apps.apple.com/bd/app/daraz-online-shopping-app/id978058048
+              - link [ref=e154]:
+                - /url: https://play.google.com/store/apps/details?id=com.daraz.android
+          - generic [ref=e155]: Download the App Now!
+    - link [ref=e156] [cursor=pointer]:
+      - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?wx_navbar_transparent=true&pha=true&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/megascenario/bd/10_10_bd/1010-brand-rush
+      - img [ref=e159]
+    - generic [ref=e160]:
+      - paragraph [ref=e162]: Flash Sale
+      - generic [ref=e163]:
+        - generic [ref=e164]:
+          - generic [ref=e167]: On Sale Now
+          - link "SHOP ALL PRODUCTS" [ref=e168] [cursor=pointer]:
+            - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/mm/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/flashsale/8r7TbxhpSH&hide_h5_title=true&lzd_navbar_hidden=true&disable_pull_refresh=true&skuIds=368410227,530522565,344123924,391193310,483352046,498221278,373656427
+        - generic [ref=e169]:
+          - link "Acupuncture Therapy Body Slimming & Electric Massagers ৳ 155 ৳ 500 -69%" [ref=e170] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/acupuncture-therapy-body-slimming-electric-massagers-i368410227-s1839397769.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.5136%3Bfs_item_discount_price%3A155%3Bitem_id%3A368410227%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A155%3Bmt%3Ahot%3Bpromo_price%3A155%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A50%3Babid%3A379274%3Bfs_item_price%3A500%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afs%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A69%25%3Bcampaign_id%3A337387&scm=1007.51610.379274.0
+            - img [ref=e173]
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: Acupuncture Therapy Body Slimming & Electric Massagers
+              - generic [ref=e176]:
+                - generic [ref=e177]: ৳
+                - generic [ref=e178]: "155"
+              - generic [ref=e179]:
+                - generic [ref=e180]:
+                  - generic [ref=e181]: ৳
+                  - generic [ref=e182]: "500"
+                - generic [ref=e183]: "-69%"
+          - link "Park Avenue Good Morning Perfume Intense Body Spray - 120ml ৳ 160 ৳ 425 -62%" [ref=e185] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/park-avenue-good-morning-perfume-intense-body-spray-120ml-i530522565-s2548104207.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.4944%3Bfs_item_discount_price%3A160%3Bitem_id%3A530522565%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A160%3Bmt%3Ahot%3Bpromo_price%3A160%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A90%3Babid%3A379274%3Bfs_item_price%3A425%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afs%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A62%25%3Bcampaign_id%3A337387&scm=1007.51610.379274.0
+            - img [ref=e188]
+            - generic [ref=e189]:
+              - paragraph [ref=e190]: Park Avenue Good Morning Perfume Intense Body Spray - 120ml
+              - generic [ref=e191]:
+                - generic [ref=e192]: ৳
+                - generic [ref=e193]: "160"
+              - generic [ref=e194]:
+                - generic [ref=e195]:
+                  - generic [ref=e196]: ৳
+                  - generic [ref=e197]: "425"
+                - generic [ref=e198]: "-62%"
+          - link "GoodKnight Liquid Mosquito Repellent Refill 45ml (Pack of 4) ৳ 399 ৳ 520 -23%" [ref=e200] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/goodknight-liquid-mosquito-repellent-refill-45ml-pack-of-4-i344123924-s1678520223.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.4848%3Bfs_item_discount_price%3A399%3Bitem_id%3A344123924%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A399%3Bmt%3Ahot%3Bpromo_price%3A399%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A27%3Babid%3A379274%3Bfs_item_price%3A520%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afashion%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A23%25%3Bcampaign_id%3A337594&scm=1007.51610.379274.0
+            - img [ref=e203]
+            - generic [ref=e204]:
+              - paragraph [ref=e205]: GoodKnight Liquid Mosquito Repellent Refill 45ml (Pack of 4)
+              - generic [ref=e206]:
+                - generic [ref=e207]: ৳
+                - generic [ref=e208]: "399"
+              - generic [ref=e209]:
+                - generic [ref=e210]:
+                  - generic [ref=e211]: ৳
+                  - generic [ref=e212]: "520"
+                - generic [ref=e213]: "-23%"
+          - link "MINISTER ONE WASH (LEMON & JASMINE)- 1 kg ৳ 89 ৳ 130 -32%" [ref=e215] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/minister-one-wash-lemon-jasmine-1-kg-i391193310-s1952644538.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.4848%3Bfs_item_discount_price%3A89%3Bitem_id%3A391193310%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A89%3Bmt%3Ahot%3Bpromo_price%3A89%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A128%3Babid%3A379274%3Bfs_item_price%3A130%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afs%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A32%25%3Bcampaign_id%3A337387&scm=1007.51610.379274.0
+            - img [ref=e218]
+            - generic [ref=e219]:
+              - paragraph [ref=e220]: MINISTER ONE WASH (LEMON & JASMINE)- 1 kg
+              - generic [ref=e221]:
+                - generic [ref=e222]: ৳
+                - generic [ref=e223]: "89"
+              - generic [ref=e224]:
+                - generic [ref=e225]:
+                  - generic [ref=e226]: ৳
+                  - generic [ref=e227]: "130"
+                - generic [ref=e228]: "-32%"
+          - link "Kazi & Kazi Organic Moringa Tea 37.5g (1.5g X 25pcs) ৳ 189 ৳ 290 -35%" [ref=e230] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/kazi-kazi-organic-moringa-tea-375g-15g-x-25pcs-i483352046-s2332428910.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.4752%3Bfs_item_discount_price%3A189%3Bitem_id%3A483352046%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A189%3Bmt%3Ahot%3Bpromo_price%3A189%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A11%3Babid%3A379274%3Bfs_item_price%3A290%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afs%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A35%25%3Bcampaign_id%3A337387&scm=1007.51610.379274.0
+            - img [ref=e233]
+            - generic [ref=e234]:
+              - paragraph [ref=e235]: Kazi & Kazi Organic Moringa Tea 37.5g (1.5g X 25pcs)
+              - generic [ref=e236]:
+                - generic [ref=e237]: ৳
+                - generic [ref=e238]: "189"
+              - generic [ref=e239]:
+                - generic [ref=e240]:
+                  - generic [ref=e241]: ৳
+                  - generic [ref=e242]: "290"
+                - generic [ref=e243]: "-35%"
+          - link "EMS Mini Massager with 3 Pad ,Muscle Stimulator Full Body Relaxation Electric ৳ 160 ৳ 320 -50%" [ref=e245] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/3-ems-i498221278-s2403253325.html?&scm=1007.51610.379274.0&pvid=2071f944-1560-4012-866f-0a81a7cec99e&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.4704%3Bfs_item_discount_price%3A160%3Bitem_id%3A498221278%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A160%3Bmt%3Ahot%3Bpromo_price%3A160%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A24%3Babid%3A379274%3Bfs_item_price%3A320%3Bpvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bfs_pvid%3A2071f944-1560-4012-866f-0a81a7cec99e%3Btime%3A1760354454%3Bfs_biz_type%3Afs%3Bscm%3A1007.51610.379274.%3Bchannel_id%3A0000%3Bfs_item_discount%3A50%25%3Bcampaign_id%3A337387&scm=1007.51610.379274.0
+            - img [ref=e248]
+            - generic [ref=e249]:
+              - paragraph [ref=e250]: EMS Mini Massager with 3 Pad ,Muscle Stimulator Full Body Relaxation Electric
+              - generic [ref=e251]:
+                - generic [ref=e252]: ৳
+                - generic [ref=e253]: "160"
+              - generic [ref=e254]:
+                - generic [ref=e255]:
+                  - generic [ref=e256]: ৳
+                  - generic [ref=e257]: "320"
+                - generic [ref=e258]: "-50%"
+    - generic [ref=e260]:
+      - paragraph [ref=e262]: Categories
+      - generic [ref=e263]:
+        - link "Power Sanders" [ref=e264] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/sanders?up_id=428849361&clickTrackInfo=matchType--20___description--19%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--428849361___scm--1007.17253.379344.0___categoryId--10000526___timestamp--1760354454051&from=hp_categories&item_id=428849361&version=v2&q=power+sanders&params=%7B%22catIdLv1%22%3A%2210000337%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Power%2BSanders%22%2C%22categoryId%22%3A%2210000526%22%7D&src=hp_categories
+          - img [ref=e267]
+          - generic [ref=e268]: Power Sanders
+        - link "Kitchen Fittings" [ref=e269] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/kitchen-fixtures?up_id=413698486&clickTrackInfo=matchType--20___description--37%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--413698486___scm--1007.17253.379344.0___categoryId--10000441___timestamp--1760354454051&from=hp_categories&item_id=413698486&version=v2&q=kitchen+fittings&params=%7B%22catIdLv1%22%3A%2210000337%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Kitchen%2BFittings%22%2C%22categoryId%22%3A%2210000441%22%7D&src=hp_categories
+          - img [ref=e272]
+          - generic [ref=e273]: Kitchen Fittings
+        - link "Womens Fashion" [ref=e274] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/wholesale-womens-fashion?up_id=526646954&clickTrackInfo=matchType--20___description--65K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--526646954___scm--1007.17253.379344.0___categoryId--20000046___timestamp--1760354454051&from=hp_categories&item_id=526646954&version=v2&q=womens+fashion&params=%7B%22catIdLv1%22%3A%2220000030%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Womens%2BFashion%22%2C%22categoryId%22%3A%2220000046%22%7D&src=hp_categories
+          - img [ref=e277]
+          - generic [ref=e278]: Womens Fashion
+        - link "Donate to Healthcare" [ref=e279] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/daraz-donates-healthcare?up_id=292969347&clickTrackInfo=matchType--20___description--2K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--292969347___scm--1007.17253.379344.0___categoryId--20000444___timestamp--1760354454051&from=hp_categories&item_id=292969347&version=v2&q=donate+to+healthcare&params=%7B%22catIdLv1%22%3A%226684%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Donate%2Bto%2BHealthcare%22%2C%22categoryId%22%3A%2220000444%22%7D&src=hp_categories
+          - img [ref=e282]
+          - generic [ref=e283]: Donate to Healthcare
+        - link "Goat" [ref=e284] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/livestock-goat?up_id=296691076&clickTrackInfo=matchType--20___description--17%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--296691076___scm--1007.17253.379344.0___categoryId--20000202___timestamp--1760354454051&from=hp_categories&item_id=296691076&version=v2&q=goat&params=%7B%22catIdLv1%22%3A%2210002990%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Goat%22%2C%22categoryId%22%3A%2220000202%22%7D&src=hp_categories
+          - img [ref=e287]
+          - generic [ref=e288]: Goat
+        - link "Watches and Accessories" [ref=e289] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/wholesale-watches-accessories?up_id=260273813&clickTrackInfo=matchType--20___description--17%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--260273813___scm--1007.17253.379344.0___categoryId--20000048___timestamp--1760354454051&from=hp_categories&item_id=260273813&version=v2&q=watches+and+accessories&params=%7B%22catIdLv1%22%3A%2220000030%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Watches%2Band%2BAccessories%22%2C%22categoryId%22%3A%2220000048%22%7D&src=hp_categories
+          - img [ref=e292]
+          - generic [ref=e293]: Watches and Accessories
+        - link "Watering Systems & Garden Hoses" [ref=e294] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/watering-systems?up_id=456091840&clickTrackInfo=matchType--20___description--20%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--456091840___scm--1007.17253.379344.0___categoryId--10000722___timestamp--1760354454051&from=hp_categories&item_id=456091840&version=v2&q=watering+systems++garden+hoses&params=%7B%22catIdLv1%22%3A%2210000337%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Watering%2BSystems%2B%2BGarden%2BHoses%22%2C%22categoryId%22%3A%2210000722%22%7D&src=hp_categories
+          - img [ref=e297]
+          - generic [ref=e298]: Watering Systems & Garden Hoses
+        - link "Margarine & Spread" [ref=e299] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/groceries-dairy-chilled-milk-butter-eggs-margarine-spread?up_id=129862743&clickTrackInfo=matchType--20___description--8K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--129862743___scm--1007.17253.379344.0___categoryId--10002505___timestamp--1760354454051&from=hp_categories&item_id=129862743&version=v2&q=margarine++spread&params=%7B%22catIdLv1%22%3A%223752%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Margarine%2B%2BSpread%22%2C%22categoryId%22%3A%2210002505%22%7D&src=hp_categories
+          - img [ref=e302]
+          - generic [ref=e303]: Margarine & Spread
+        - link "Bedding Sets" [ref=e304] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/shop-bedding-sets?up_id=159126325&clickTrackInfo=matchType--20___description--13K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--159126325___scm--1007.17253.379344.0___categoryId--10000403___timestamp--1760354454051&from=hp_categories&item_id=159126325&version=v2&q=bedding+sets&params=%7B%22catIdLv1%22%3A%2210000335%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Bedding%2BSets%22%2C%22categoryId%22%3A%2210000403%22%7D&src=hp_categories
+          - img [ref=e307]
+          - generic [ref=e308]: Bedding Sets
+        - link "Pools" [ref=e309] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/inflatable-pools?up_id=130412034&clickTrackInfo=matchType--20___description--17K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--130412034___scm--1007.17253.379344.0___categoryId--10000800___timestamp--1760354454051&from=hp_categories&item_id=130412034&version=v2&q=pools&params=%7B%22catIdLv1%22%3A%2210000337%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Pools%22%2C%22categoryId%22%3A%2210000800%22%7D&src=hp_categories
+          - img [ref=e312]
+          - generic [ref=e313]: Pools
+        - link "Bathroom Lighting" [ref=e314] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/bathroom-lights?up_id=255155678&clickTrackInfo=matchType--20___description--27%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--255155678___scm--1007.17253.379344.0___categoryId--10000646___timestamp--1760354454051&from=hp_categories&item_id=255155678&version=v2&q=bathroom+lighting&params=%7B%22catIdLv1%22%3A%2210000336%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Bathroom%2BLighting%22%2C%22categoryId%22%3A%2210000646%22%7D&src=hp_categories
+          - img [ref=e317]
+          - generic [ref=e318]: Bathroom Lighting
+        - link "Eye Primers" [ref=e319] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/eye-primer?up_id=475081174&clickTrackInfo=matchType--20___description--9%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--475081174___scm--1007.17253.379344.0___categoryId--1499___timestamp--1760354454051&from=hp_categories&item_id=475081174&version=v2&q=eye+primers&params=%7B%22catIdLv1%22%3A%221438%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Eye%2BPrimers%22%2C%22categoryId%22%3A%221499%22%7D&src=hp_categories
+          - img [ref=e322]
+          - generic [ref=e323]: Eye Primers
+        - link "Digital Downloads" [ref=e324] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/xbox-digital-downloads?up_id=548950273&clickTrackInfo=matchType--20___description--26%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--548950273___scm--1007.17253.379344.0___categoryId--10002936___timestamp--1760354454051&from=hp_categories&item_id=548950273&version=v2&q=digital+downloads&params=%7B%22catIdLv1%22%3A%22147%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Digital%2BDownloads%22%2C%22categoryId%22%3A%2210002936%22%7D&src=hp_categories
+          - img [ref=e327]
+          - generic [ref=e328]: Digital Downloads
+        - link "Skirts" [ref=e329] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/girls-sports-skirts?up_id=364129093&clickTrackInfo=matchType--20___description--33%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--364129093___scm--1007.17253.379344.0___categoryId--10140___timestamp--1760354454051&from=hp_categories&item_id=364129093&version=v2&q=skirts&params=%7B%22catIdLv1%22%3A%221970%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Skirts%22%2C%22categoryId%22%3A%2210140%22%7D&src=hp_categories
+          - img [ref=e332]
+          - generic [ref=e333]: Skirts
+        - link "Wipes & Refills" [ref=e334] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/baby-wipes?up_id=489745020&clickTrackInfo=matchType--20___description--20%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--489745020___scm--1007.17253.379344.0___categoryId--8786___timestamp--1760354454051&from=hp_categories&item_id=489745020&version=v2&q=wipes++refills&params=%7B%22catIdLv1%22%3A%228706%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Wipes%2B%2BRefills%22%2C%22categoryId%22%3A%228786%22%7D&src=hp_categories
+          - img [ref=e337]
+          - generic [ref=e338]: Wipes & Refills
+        - link "Beans & Chickpeas" [ref=e339] [cursor=pointer]:
+          - /url: //www.daraz.com.bd/pulses-beans?up_id=238502367&clickTrackInfo=matchType--20___description--9K%252B%2Bsearch___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--84e176fc-eaa8-44d7-a060-2de83841b53c___refer--___appId--7253___seedItemId--238502367___scm--1007.17253.379344.0___categoryId--10002455___timestamp--1760354454051&from=hp_categories&item_id=238502367&version=v2&q=beans++chickpeas&params=%7B%22catIdLv1%22%3A%223752%22%2C%22pvid%22%3A%2284e176fc-eaa8-44d7-a060-2de83841b53c%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Beans%2B%2BChickpeas%22%2C%22categoryId%22%3A%2210002455%22%7D&src=hp_categories
+          - img [ref=e342]
+          - generic [ref=e343]: Beans & Chickpeas
+    - generic [ref=e344]:
+      - generic [ref=e345]: Just For You
+      - generic [ref=e346]:
+        - generic [ref=e347]:
+          - link "TWS Pro Bluetooth Earbuds – True Wireless Gaming Earphones with Mic – Black Edition ৳239 -85%   (845)" [ref=e348] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/tws-pro-bluetooth-earbuds-true-wireless-gaming-earphones-with-mic-black-edition-i366583550-s1827377017.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e351]
+            - generic [ref=e352]:
+              - generic [ref=e353]: TWS Pro Bluetooth Earbuds – True Wireless Gaming Earphones with Mic – Black Edition
+              - generic [ref=e355]:
+                - text: ৳239
+                - generic [ref=e356]: "-85%"
+              - generic [ref=e357]:
+                - generic [ref=e358]:
+                  - generic [ref=e359]:
+                    - generic [ref=e360]: 
+                    - generic [ref=e361]: 
+                    - generic [ref=e362]: 
+                    - generic [ref=e363]: 
+                    - generic [ref=e364]: 
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: 
+                    - generic [ref=e367]: 
+                    - generic [ref=e368]: 
+                    - generic [ref=e369]: 
+                    - generic [ref=e370]: 
+                - generic [ref=e371]: (845)
+          - link "Adjustable Hand Grip 5-60Kg - Strengthen Your Grip With Precision And Comfort Using This Adjustable Hand Grip ৳118 -6%   (431)" [ref=e372] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/5-60kg-i523540587-s2561596503.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e375]
+            - generic [ref=e376]:
+              - generic [ref=e377]: Adjustable Hand Grip 5-60Kg - Strengthen Your Grip With Precision And Comfort Using This Adjustable Hand Grip
+              - generic [ref=e379]:
+                - text: ৳118
+                - generic [ref=e380]: "-6%"
+              - generic [ref=e381]:
+                - generic [ref=e382]:
+                  - generic [ref=e383]:
+                    - generic [ref=e384]: 
+                    - generic [ref=e385]: 
+                    - generic [ref=e386]: 
+                    - generic [ref=e387]: 
+                    - generic [ref=e388]: 
+                  - generic [ref=e389]:
+                    - generic [ref=e390]: 
+                    - generic [ref=e391]: 
+                    - generic [ref=e392]: 
+                    - generic [ref=e393]: 
+                    - generic [ref=e394]: 
+                - generic [ref=e395]: (431)
+          - link "K8 Wireless (typc) Lavalier Microphone - Noise Cancelling for Professional Use ৳250 -17%   (98)" [ref=e396] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/k8-typc-lavalier-i464496491-s2231459495.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e399]
+            - generic [ref=e400]:
+              - generic [ref=e401]: K8 Wireless (typc) Lavalier Microphone - Noise Cancelling for Professional Use
+              - generic [ref=e403]:
+                - text: ৳250
+                - generic [ref=e404]: "-17%"
+              - generic [ref=e405]:
+                - generic [ref=e406]:
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: 
+                    - generic [ref=e409]: 
+                    - generic [ref=e410]: 
+                    - generic [ref=e411]: 
+                    - generic [ref=e412]: 
+                  - generic [ref=e413]:
+                    - generic [ref=e414]: 
+                    - generic [ref=e415]: 
+                    - generic [ref=e416]: 
+                    - generic [ref=e417]: 
+                    - generic [ref=e418]: 
+                - generic [ref=e419]: (98)
+          - link "X16 Mobile Cooler For Gaming Universal Size Mini Cooling Fan for All Gaming Phone ৳275 -61%   (1058)" [ref=e420] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/x16-i323507402-s1541195889.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e423]
+            - generic [ref=e424]:
+              - generic [ref=e425]: X16 Mobile Cooler For Gaming Universal Size Mini Cooling Fan for All Gaming Phone
+              - generic [ref=e427]:
+                - text: ৳275
+                - generic [ref=e428]: "-61%"
+              - generic [ref=e429]:
+                - generic [ref=e430]:
+                  - generic [ref=e431]:
+                    - generic [ref=e432]: 
+                    - generic [ref=e433]: 
+                    - generic [ref=e434]: 
+                    - generic [ref=e435]: 
+                    - generic [ref=e436]: 
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: 
+                    - generic [ref=e439]: 
+                    - generic [ref=e440]: 
+                    - generic [ref=e441]: 
+                    - generic [ref=e442]: 
+                - generic [ref=e443]: (1058)
+          - link "আউটডোর ট্র্যাভেলিং স্কুল কলেজ 10l এর জন্য স্টাইলিশ মিনি ব্যাকপ্যাক - school bag ৳131 -56%   (240)" [ref=e444] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/10l-school-bag-i273233967-s1658821702.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e447]
+            - generic [ref=e448]:
+              - generic [ref=e449]: আউটডোর ট্র্যাভেলিং স্কুল কলেজ 10l এর জন্য স্টাইলিশ মিনি ব্যাকপ্যাক - school bag
+              - generic [ref=e451]:
+                - text: ৳131
+                - generic [ref=e452]: "-56%"
+              - generic [ref=e453]:
+                - generic [ref=e454]:
+                  - generic [ref=e455]:
+                    - generic [ref=e456]: 
+                    - generic [ref=e457]: 
+                    - generic [ref=e458]: 
+                    - generic [ref=e459]: 
+                    - generic [ref=e460]: 
+                  - generic [ref=e461]:
+                    - generic [ref=e462]: 
+                    - generic [ref=e463]: 
+                    - generic [ref=e464]: 
+                    - generic [ref=e465]: 
+                    - generic [ref=e466]: 
+                - generic [ref=e467]: (240)
+          - link "Smart Hand Fan cute handheld cooling Rechargeable Sports Pocket Mini Fan by Next Gadget ৳298 -67%   (150)" [ref=e468] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i528747642-s2543386721.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e471]
+            - generic [ref=e472]:
+              - generic [ref=e473]: Smart Hand Fan cute handheld cooling Rechargeable Sports Pocket Mini Fan by Next Gadget
+              - generic [ref=e475]:
+                - text: ৳298
+                - generic [ref=e476]: "-67%"
+              - generic [ref=e477]:
+                - generic [ref=e478]:
+                  - generic [ref=e479]:
+                    - generic [ref=e480]: 
+                    - generic [ref=e481]: 
+                    - generic [ref=e482]: 
+                    - generic [ref=e483]: 
+                    - generic [ref=e484]: 
+                  - generic [ref=e485]:
+                    - generic [ref=e486]: 
+                    - generic [ref=e487]: 
+                    - generic [ref=e488]: 
+                    - generic [ref=e489]: 
+                    - generic [ref=e490]: 
+                - generic [ref=e491]: (150)
+          - link "Black Beach Bra and Panty Set, Comfortable Lingerie, Adjustable Straps, Soft Fabric ৳230 -73%   (194)" [ref=e492] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/black-beach-bra-and-panty-set-comfortable-lingerie-adjustable-straps-soft-fabric-i169950294-s1104754565.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e495]
+            - generic [ref=e496]:
+              - generic [ref=e497]: Black Beach Bra and Panty Set, Comfortable Lingerie, Adjustable Straps, Soft Fabric
+              - generic [ref=e499]:
+                - text: ৳230
+                - generic [ref=e500]: "-73%"
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - generic [ref=e504]: 
+                    - generic [ref=e505]: 
+                    - generic [ref=e506]: 
+                    - generic [ref=e507]: 
+                    - generic [ref=e508]: 
+                  - generic [ref=e509]:
+                    - generic [ref=e510]: 
+                    - generic [ref=e511]: 
+                    - generic [ref=e512]: 
+                    - generic [ref=e513]: 
+                    - generic [ref=e514]: 
+                - generic [ref=e515]: (194)
+          - link "4pcs Bicycle_ Bike_Car Styling Reflective Fluorescent Stripe Tape Motorcycle Body Rim Wheel Stripe Stickers Reflective Rim Tape ৳67 -39%   (149)" [ref=e516] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/4-_-_-i271482088-s1243319134.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e519]
+            - generic [ref=e520]:
+              - generic [ref=e521]: 4pcs Bicycle_ Bike_Car Styling Reflective Fluorescent Stripe Tape Motorcycle Body Rim Wheel Stripe Stickers Reflective Rim Tape
+              - generic [ref=e523]:
+                - text: ৳67
+                - generic [ref=e524]: "-39%"
+              - generic [ref=e525]:
+                - generic [ref=e526]:
+                  - generic [ref=e527]:
+                    - generic [ref=e528]: 
+                    - generic [ref=e529]: 
+                    - generic [ref=e530]: 
+                    - generic [ref=e531]: 
+                    - generic [ref=e532]: 
+                  - generic [ref=e533]:
+                    - generic [ref=e534]: 
+                    - generic [ref=e535]: 
+                    - generic [ref=e536]: 
+                    - generic [ref=e537]: 
+                    - generic [ref=e538]: 
+                - generic [ref=e539]: (149)
+          - link "A9 Camera 1080P IP Camera Voice Video Security Wireless Camcorders Surveillance Cameras Wifi Camera No Infrared Night Vision ৳337 -66%   (163)" [ref=e540] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/a9-1080p-ip-wifi-i308260423-s1383178689.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e543]
+            - generic [ref=e544]:
+              - generic [ref=e545]: A9 Camera 1080P IP Camera Voice Video Security Wireless Camcorders Surveillance Cameras Wifi Camera No Infrared Night Vision
+              - generic [ref=e547]:
+                - text: ৳337
+                - generic [ref=e548]: "-66%"
+              - generic [ref=e549]:
+                - generic [ref=e550]:
+                  - generic [ref=e551]:
+                    - generic [ref=e552]: 
+                    - generic [ref=e553]: 
+                    - generic [ref=e554]: 
+                    - generic [ref=e555]: 
+                    - generic [ref=e556]: 
+                  - generic [ref=e557]:
+                    - generic [ref=e558]: 
+                    - generic [ref=e559]: 
+                    - generic [ref=e560]: 
+                    - generic [ref=e561]: 
+                    - generic [ref=e562]: 
+                - generic [ref=e563]: (163)
+          - link "Baby Cap Towel Baby hooded towels, Newborn Baby, Washable, Kids Cap Towel , Bath towels,Velvet Cap Towel Size 29''*27'' ৳87 -60%   (340)" [ref=e564] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/29-27-i321743398-s1572919294.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e567]
+            - generic [ref=e568]:
+              - generic [ref=e569]: Baby Cap Towel Baby hooded towels, Newborn Baby, Washable, Kids Cap Towel , Bath towels,Velvet Cap Towel Size 29''*27''
+              - generic [ref=e571]:
+                - text: ৳87
+                - generic [ref=e572]: "-60%"
+              - generic [ref=e573]:
+                - generic [ref=e574]:
+                  - generic [ref=e575]:
+                    - generic [ref=e576]: 
+                    - generic [ref=e577]: 
+                    - generic [ref=e578]: 
+                    - generic [ref=e579]: 
+                    - generic [ref=e580]: 
+                  - generic [ref=e581]:
+                    - generic [ref=e582]: 
+                    - generic [ref=e583]: 
+                    - generic [ref=e584]: 
+                    - generic [ref=e585]: 
+                    - generic [ref=e586]: 
+                - generic [ref=e587]: (340)
+          - link "Comfortable Wireless Front Buckle Pregnancy Breastfeeding Maternity Nursing Bra Underwear Newborn Baby Feeding Bra Traceless and Breathable Women Bra ৳263 -45%   (295)" [ref=e588] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i382930432-s1918430016.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e591]
+            - generic [ref=e592]:
+              - generic [ref=e593]: Comfortable Wireless Front Buckle Pregnancy Breastfeeding Maternity Nursing Bra Underwear Newborn Baby Feeding Bra Traceless and Breathable Women Bra
+              - generic [ref=e595]:
+                - text: ৳263
+                - generic [ref=e596]: "-45%"
+              - generic [ref=e597]:
+                - generic [ref=e598]:
+                  - generic [ref=e599]:
+                    - generic [ref=e600]: 
+                    - generic [ref=e601]: 
+                    - generic [ref=e602]: 
+                    - generic [ref=e603]: 
+                    - generic [ref=e604]: 
+                  - generic [ref=e605]:
+                    - generic [ref=e606]: 
+                    - generic [ref=e607]: 
+                    - generic [ref=e608]: 
+                    - generic [ref=e609]: 
+                    - generic [ref=e610]: 
+                - generic [ref=e611]: (295)
+          - link "Household Small Powder Grinding Machine, Electric Mini Spice Grinder Add 5 Blades, 304 Stainless Steel Grinding Fine Powder for All Kinds of Grains, Condiments, Coffee Beans (Blue) By Win Accessories ৳849 -74%   (201)" [ref=e612] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/5-304-i453536159-s2172664335.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e615]
+            - generic [ref=e616]:
+              - generic [ref=e617]: Household Small Powder Grinding Machine, Electric Mini Spice Grinder Add 5 Blades, 304 Stainless Steel Grinding Fine Powder for All Kinds of Grains, Condiments, Coffee Beans (Blue) By Win Accessories
+              - generic [ref=e619]:
+                - text: ৳849
+                - generic [ref=e620]: "-74%"
+              - generic [ref=e621]:
+                - generic [ref=e622]:
+                  - generic [ref=e623]:
+                    - generic [ref=e624]: 
+                    - generic [ref=e625]: 
+                    - generic [ref=e626]: 
+                    - generic [ref=e627]: 
+                    - generic [ref=e628]: 
+                  - generic [ref=e629]:
+                    - generic [ref=e630]: 
+                    - generic [ref=e631]: 
+                    - generic [ref=e632]: 
+                    - generic [ref=e633]: 
+                    - generic [ref=e634]: 
+                - generic [ref=e635]: (201)
+          - link "Monopod Portable Pocket Selfie Stick ৳131 -34%   (239)" [ref=e636] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i223516873-s1169553282.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e639]
+            - generic [ref=e640]:
+              - generic [ref=e641]: Monopod Portable Pocket Selfie Stick
+              - generic [ref=e643]:
+                - text: ৳131
+                - generic [ref=e644]: "-34%"
+              - generic [ref=e645]:
+                - generic [ref=e646]:
+                  - generic [ref=e647]:
+                    - generic [ref=e648]: 
+                    - generic [ref=e649]: 
+                    - generic [ref=e650]: 
+                    - generic [ref=e651]: 
+                    - generic [ref=e652]: 
+                  - generic [ref=e653]:
+                    - generic [ref=e654]: 
+                    - generic [ref=e655]: 
+                    - generic [ref=e656]: 
+                    - generic [ref=e657]: 
+                    - generic [ref=e658]: 
+                - generic [ref=e659]: (239)
+          - link "realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance ৳14,910   (39)" [ref=e660] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/realme-c71-6gb128gb-6300mah-battery-45w-fast-charge-120hz-ip64-dust-water-resistance-i531144210-s2549231467.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e663]
+            - generic [ref=e664]:
+              - generic [ref=e665]: realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+              - generic [ref=e667]: ৳14,910
+              - generic [ref=e668]:
+                - generic [ref=e669]:
+                  - generic [ref=e670]:
+                    - generic [ref=e671]: 
+                    - generic [ref=e672]: 
+                    - generic [ref=e673]: 
+                    - generic [ref=e674]: 
+                    - generic [ref=e675]: 
+                  - generic [ref=e676]:
+                    - generic [ref=e677]: 
+                    - generic [ref=e678]: 
+                    - generic [ref=e679]: 
+                    - generic [ref=e680]: 
+                    - generic [ref=e681]: 
+                - generic [ref=e682]: (39)
+          - link "24Pcs/12Pcs Earrings for Women Set Golden Metal Geometric Shaped Rectangle Pearl Earings Set for Women and girls Square Round Fashion Party Jewelry ৳191 -24%   (40)" [ref=e683] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/24-12-i445720640-s2133483689.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e686]
+            - generic [ref=e687]:
+              - generic [ref=e688]: 24Pcs/12Pcs Earrings for Women Set Golden Metal Geometric Shaped Rectangle Pearl Earings Set for Women and girls Square Round Fashion Party Jewelry
+              - generic [ref=e690]:
+                - text: ৳191
+                - generic [ref=e691]: "-24%"
+              - generic [ref=e692]:
+                - generic [ref=e693]:
+                  - generic [ref=e694]:
+                    - generic [ref=e695]: 
+                    - generic [ref=e696]: 
+                    - generic [ref=e697]: 
+                    - generic [ref=e698]: 
+                    - generic [ref=e699]: 
+                  - generic [ref=e700]:
+                    - generic [ref=e701]: 
+                    - generic [ref=e702]: 
+                    - generic [ref=e703]: 
+                    - generic [ref=e704]: 
+                    - generic [ref=e705]: 
+                - generic [ref=e706]: (40)
+          - link "3-Piece Women's Cotton Panty Set , Export Quality, Soft & Comfortable ৳129 -79%   (313)" [ref=e707] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/3-piece-womens-cotton-panty-set-export-quality-soft-comfortable-i323287648-s1539929821.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e710]
+            - generic [ref=e711]:
+              - generic [ref=e712]: 3-Piece Women's Cotton Panty Set , Export Quality, Soft & Comfortable
+              - generic [ref=e714]:
+                - text: ৳129
+                - generic [ref=e715]: "-79%"
+              - generic [ref=e716]:
+                - generic [ref=e717]:
+                  - generic [ref=e718]:
+                    - generic [ref=e719]: 
+                    - generic [ref=e720]: 
+                    - generic [ref=e721]: 
+                    - generic [ref=e722]: 
+                    - generic [ref=e723]: 
+                  - generic [ref=e724]:
+                    - generic [ref=e725]: 
+                    - generic [ref=e726]: 
+                    - generic [ref=e727]: 
+                    - generic [ref=e728]: 
+                    - generic [ref=e729]: 
+                - generic [ref=e730]: (313)
+          - link "8.5 Inch 3D Glass Magnifier Mobile Screen Amplifier Foldable Display ৳157 -60%   (249)" [ref=e731] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/85-inch-3d-glass-magnifier-mobile-screen-amplifier-foldable-display-i381401799-s2548754534.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e734]
+            - generic [ref=e735]:
+              - generic [ref=e736]: 8.5 Inch 3D Glass Magnifier Mobile Screen Amplifier Foldable Display
+              - generic [ref=e738]:
+                - text: ৳157
+                - generic [ref=e739]: "-60%"
+              - generic [ref=e740]:
+                - generic [ref=e741]:
+                  - generic [ref=e742]:
+                    - generic [ref=e743]: 
+                    - generic [ref=e744]: 
+                    - generic [ref=e745]: 
+                    - generic [ref=e746]: 
+                    - generic [ref=e747]: 
+                  - generic [ref=e748]:
+                    - generic [ref=e749]: 
+                    - generic [ref=e750]: 
+                    - generic [ref=e751]: 
+                    - generic [ref=e752]: 
+                    - generic [ref=e753]: 
+                - generic [ref=e754]: (249)
+          - link "Toys revolver water gun water fight summer water play toys kindergarten gift small water gun -1pcs ৳269 -40%   (139)" [ref=e755] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/1-i519307400-s2543829875.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e758]
+            - generic [ref=e759]:
+              - generic [ref=e760]: Toys revolver water gun water fight summer water play toys kindergarten gift small water gun -1pcs
+              - generic [ref=e762]:
+                - text: ৳269
+                - generic [ref=e763]: "-40%"
+              - generic [ref=e764]:
+                - generic [ref=e765]:
+                  - generic [ref=e766]:
+                    - generic [ref=e767]: 
+                    - generic [ref=e768]: 
+                    - generic [ref=e769]: 
+                    - generic [ref=e770]: 
+                    - generic [ref=e771]: 
+                  - generic [ref=e772]:
+                    - generic [ref=e773]: 
+                    - generic [ref=e774]: 
+                    - generic [ref=e775]: 
+                    - generic [ref=e776]: 
+                    - generic [ref=e777]: 
+                - generic [ref=e778]: (139)
+          - link "Lotto Slide Sandal for Men ৳857 -28%   (49)" [ref=e779] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i420806165-s2059825072.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e782]
+            - generic [ref=e783]:
+              - generic [ref=e784]: Lotto Slide Sandal for Men
+              - generic [ref=e786]:
+                - text: ৳857
+                - generic [ref=e787]: "-28%"
+              - generic [ref=e788]:
+                - generic [ref=e789]:
+                  - generic [ref=e790]:
+                    - generic [ref=e791]: 
+                    - generic [ref=e792]: 
+                    - generic [ref=e793]: 
+                    - generic [ref=e794]: 
+                    - generic [ref=e795]: 
+                  - generic [ref=e796]:
+                    - generic [ref=e797]: 
+                    - generic [ref=e798]: 
+                    - generic [ref=e799]: 
+                    - generic [ref=e800]: 
+                    - generic [ref=e801]: 
+                - generic [ref=e802]: (49)
+          - link "Unstitched Cotton Screen Printed Salwar Kameez For Women 3 Pice Dress ৳599 -45%   (1557)" [ref=e803] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/3-i319588561-s1717493677.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e806]
+            - generic [ref=e807]:
+              - generic [ref=e808]: Unstitched Cotton Screen Printed Salwar Kameez For Women 3 Pice Dress
+              - generic [ref=e810]:
+                - text: ৳599
+                - generic [ref=e811]: "-45%"
+              - generic [ref=e812]:
+                - generic [ref=e813]:
+                  - generic [ref=e814]:
+                    - generic [ref=e815]: 
+                    - generic [ref=e816]: 
+                    - generic [ref=e817]: 
+                    - generic [ref=e818]: 
+                    - generic [ref=e819]: 
+                  - generic [ref=e820]:
+                    - generic [ref=e821]: 
+                    - generic [ref=e822]: 
+                    - generic [ref=e823]: 
+                    - generic [ref=e824]: 
+                    - generic [ref=e825]: 
+                - generic [ref=e826]: (1557)
+          - link "Free size Female Fashion Opening Adjustable Size Wild Simple Personality Ring Jewelry- Innovative ৳65 -59%   (21)" [ref=e827] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i329377214-s1606333545.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e830]
+            - generic [ref=e831]:
+              - generic [ref=e832]: Free size Female Fashion Opening Adjustable Size Wild Simple Personality Ring Jewelry- Innovative
+              - generic [ref=e834]:
+                - text: ৳65
+                - generic [ref=e835]: "-59%"
+              - generic [ref=e836]:
+                - generic [ref=e837]:
+                  - generic [ref=e838]:
+                    - generic [ref=e839]: 
+                    - generic [ref=e840]: 
+                    - generic [ref=e841]: 
+                    - generic [ref=e842]: 
+                    - generic [ref=e843]: 
+                  - generic [ref=e844]:
+                    - generic [ref=e845]: 
+                    - generic [ref=e846]: 
+                    - generic [ref=e847]: 
+                    - generic [ref=e848]: 
+                    - generic [ref=e849]: 
+                - generic [ref=e850]: (21)
+          - link "Pulse Oximeter Fingertip And thermometer Combo Offer ৳176 -68%   (61)" [ref=e851] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i342944864-s1673057713.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e854]
+            - generic [ref=e855]:
+              - generic [ref=e856]: Pulse Oximeter Fingertip And thermometer Combo Offer
+              - generic [ref=e858]:
+                - text: ৳176
+                - generic [ref=e859]: "-68%"
+              - generic [ref=e860]:
+                - generic [ref=e861]:
+                  - generic [ref=e862]:
+                    - generic [ref=e863]: 
+                    - generic [ref=e864]: 
+                    - generic [ref=e865]: 
+                    - generic [ref=e866]: 
+                    - generic [ref=e867]: 
+                  - generic [ref=e868]:
+                    - generic [ref=e869]: 
+                    - generic [ref=e870]: 
+                    - generic [ref=e871]: 
+                    - generic [ref=e872]: 
+                    - generic [ref=e873]: 
+                - generic [ref=e874]: (61)
+          - link "Potato Chips (Ready to Fry) - 1 kg ৳143 -52%   (349)" [ref=e875] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/potato-chips-ready-to-fry-1-kg-i317066205-s1437415343.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e878]
+            - generic [ref=e879]:
+              - generic [ref=e880]: Potato Chips (Ready to Fry) - 1 kg
+              - generic [ref=e882]:
+                - text: ৳143
+                - generic [ref=e883]: "-52%"
+              - generic [ref=e884]:
+                - generic [ref=e885]:
+                  - generic [ref=e886]:
+                    - generic [ref=e887]: 
+                    - generic [ref=e888]: 
+                    - generic [ref=e889]: 
+                    - generic [ref=e890]: 
+                    - generic [ref=e891]: 
+                  - generic [ref=e892]:
+                    - generic [ref=e893]: 
+                    - generic [ref=e894]: 
+                    - generic [ref=e895]: 
+                    - generic [ref=e896]: 
+                    - generic [ref=e897]: 
+                - generic [ref=e898]: (349)
+          - link "New Collection Readymade Swich silk skin print gawn 1 piece ৳420 -66%   (22)" [ref=e899] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/1-i524075475-s2532489841.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e902]
+            - generic [ref=e903]:
+              - generic [ref=e904]: New Collection Readymade Swich silk skin print gawn 1 piece
+              - generic [ref=e906]:
+                - text: ৳420
+                - generic [ref=e907]: "-66%"
+              - generic [ref=e908]:
+                - generic [ref=e909]:
+                  - generic [ref=e910]:
+                    - generic [ref=e911]: 
+                    - generic [ref=e912]: 
+                    - generic [ref=e913]: 
+                    - generic [ref=e914]: 
+                    - generic [ref=e915]: 
+                  - generic [ref=e916]:
+                    - generic [ref=e917]: 
+                    - generic [ref=e918]: 
+                    - generic [ref=e919]: 
+                    - generic [ref=e920]: 
+                    - generic [ref=e921]: 
+                - generic [ref=e922]: (22)
+          - link "New Rechargeable Folding Table Fan with Led Light ৳674 -50%   (652)" [ref=e923] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/led-i308234341-s1382975958.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e926]
+            - generic [ref=e927]:
+              - generic [ref=e928]: New Rechargeable Folding Table Fan with Led Light
+              - generic [ref=e930]:
+                - text: ৳674
+                - generic [ref=e931]: "-50%"
+              - generic [ref=e932]:
+                - generic [ref=e933]:
+                  - generic [ref=e934]:
+                    - generic [ref=e935]: 
+                    - generic [ref=e936]: 
+                    - generic [ref=e937]: 
+                    - generic [ref=e938]: 
+                    - generic [ref=e939]: 
+                  - generic [ref=e940]:
+                    - generic [ref=e941]: 
+                    - generic [ref=e942]: 
+                    - generic [ref=e943]: 
+                    - generic [ref=e944]: 
+                    - generic [ref=e945]: 
+                - generic [ref=e946]: (652)
+          - link "Original Kojie San Skin Lightening Kojic Acid Soap 3 Bars Per Pack (65g) ৳200 -60%   (84)" [ref=e947] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/3-65-i484412074-s2338833151.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e950]
+            - generic [ref=e951]:
+              - generic [ref=e952]: Original Kojie San Skin Lightening Kojic Acid Soap 3 Bars Per Pack (65g)
+              - generic [ref=e954]:
+                - text: ৳200
+                - generic [ref=e955]: "-60%"
+              - generic [ref=e956]:
+                - generic [ref=e957]:
+                  - generic [ref=e958]:
+                    - generic [ref=e959]: 
+                    - generic [ref=e960]: 
+                    - generic [ref=e961]: 
+                    - generic [ref=e962]: 
+                    - generic [ref=e963]: 
+                  - generic [ref=e964]:
+                    - generic [ref=e965]: 
+                    - generic [ref=e966]: 
+                    - generic [ref=e967]: 
+                    - generic [ref=e968]: 
+                    - generic [ref=e969]: 
+                - generic [ref=e970]: (84)
+          - link "18 Colors eyeshadow pallete Glitter Makeup Matte Eye shadow make up palette ৳195 -61%   (104)" [ref=e971] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/18-i419371756-s2120983032.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e974]
+            - generic [ref=e975]:
+              - generic [ref=e976]: 18 Colors eyeshadow pallete Glitter Makeup Matte Eye shadow make up palette
+              - generic [ref=e978]:
+                - text: ৳195
+                - generic [ref=e979]: "-61%"
+              - generic [ref=e980]:
+                - generic [ref=e981]:
+                  - generic [ref=e982]:
+                    - generic [ref=e983]: 
+                    - generic [ref=e984]: 
+                    - generic [ref=e985]: 
+                    - generic [ref=e986]: 
+                    - generic [ref=e987]: 
+                  - generic [ref=e988]:
+                    - generic [ref=e989]: 
+                    - generic [ref=e990]: 
+                    - generic [ref=e991]: 
+                    - generic [ref=e992]: 
+                    - generic [ref=e993]: 
+                - generic [ref=e994]: (104)
+          - link "Shwepyi Nann Thanaka Chandon Face Pack 140gm ৳176 -61%   (79)" [ref=e995] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/shwepyi-nann-thanaka-140-i513038880-s2463394204.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e998]
+            - generic [ref=e999]:
+              - generic [ref=e1000]: Shwepyi Nann Thanaka Chandon Face Pack 140gm
+              - generic [ref=e1002]:
+                - text: ৳176
+                - generic [ref=e1003]: "-61%"
+              - generic [ref=e1004]:
+                - generic [ref=e1005]:
+                  - generic [ref=e1006]:
+                    - generic [ref=e1007]: 
+                    - generic [ref=e1008]: 
+                    - generic [ref=e1009]: 
+                    - generic [ref=e1010]: 
+                    - generic [ref=e1011]: 
+                  - generic [ref=e1012]:
+                    - generic [ref=e1013]: 
+                    - generic [ref=e1014]: 
+                    - generic [ref=e1015]: 
+                    - generic [ref=e1016]: 
+                    - generic [ref=e1017]: 
+                - generic [ref=e1018]: (79)
+          - link "New Exclusive designed 1piece long koti long koti For Stylish Women Girls ৳422 -65%   (46)" [ref=e1019] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/1-i327572928-s1598576658.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1022]
+            - generic [ref=e1023]:
+              - generic [ref=e1024]: New Exclusive designed 1piece long koti long koti For Stylish Women Girls
+              - generic [ref=e1026]:
+                - text: ৳422
+                - generic [ref=e1027]: "-65%"
+              - generic [ref=e1028]:
+                - generic [ref=e1029]:
+                  - generic [ref=e1030]:
+                    - generic [ref=e1031]: 
+                    - generic [ref=e1032]: 
+                    - generic [ref=e1033]: 
+                    - generic [ref=e1034]: 
+                    - generic [ref=e1035]: 
+                  - generic [ref=e1036]:
+                    - generic [ref=e1037]: 
+                    - generic [ref=e1038]: 
+                    - generic [ref=e1039]: 
+                    - generic [ref=e1040]: 
+                    - generic [ref=e1041]: 
+                - generic [ref=e1042]: (46)
+          - link "Premium Soft Cotton. Exclusive New Panjabi Design.Stylish and Trendy Panjabi for Men. ৳560 -53%   (146)" [ref=e1043] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i453571292-s2173168180.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1046]
+            - generic [ref=e1047]:
+              - generic [ref=e1048]: Premium Soft Cotton. Exclusive New Panjabi Design.Stylish and Trendy Panjabi for Men.
+              - generic [ref=e1050]:
+                - text: ৳560
+                - generic [ref=e1051]: "-53%"
+              - generic [ref=e1052]:
+                - generic [ref=e1053]:
+                  - generic [ref=e1054]:
+                    - generic [ref=e1055]: 
+                    - generic [ref=e1056]: 
+                    - generic [ref=e1057]: 
+                    - generic [ref=e1058]: 
+                    - generic [ref=e1059]: 
+                  - generic [ref=e1060]:
+                    - generic [ref=e1061]: 
+                    - generic [ref=e1062]: 
+                    - generic [ref=e1063]: 
+                    - generic [ref=e1064]: 
+                    - generic [ref=e1065]: 
+                - generic [ref=e1066]: (146)
+          - link "New Exclusive designed Gown 1piece long kurti different koti, Gown long kurti For Stylish Women / Girls - Dress For Girls ৳385 -57%   (57)" [ref=e1067] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/1-i323730266-s1544440891.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1070]
+            - generic [ref=e1071]:
+              - generic [ref=e1072]: New Exclusive designed Gown 1piece long kurti different koti, Gown long kurti For Stylish Women / Girls - Dress For Girls
+              - generic [ref=e1074]:
+                - text: ৳385
+                - generic [ref=e1075]: "-57%"
+              - generic [ref=e1076]:
+                - generic [ref=e1077]:
+                  - generic [ref=e1078]:
+                    - generic [ref=e1079]: 
+                    - generic [ref=e1080]: 
+                    - generic [ref=e1081]: 
+                    - generic [ref=e1082]: 
+                    - generic [ref=e1083]: 
+                  - generic [ref=e1084]:
+                    - generic [ref=e1085]: 
+                    - generic [ref=e1086]: 
+                    - generic [ref=e1087]: 
+                    - generic [ref=e1088]: 
+                    - generic [ref=e1089]: 
+                - generic [ref=e1090]: (57)
+          - link "Blue Bird Perfume for men -100 ml ৳222 -37%   (421)" [ref=e1091] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/blue-bird-perfume-for-men-100-ml-i251376637-s1196990717.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1094]
+            - generic [ref=e1095]:
+              - generic [ref=e1096]: Blue Bird Perfume for men -100 ml
+              - generic [ref=e1098]:
+                - text: ৳222
+                - generic [ref=e1099]: "-37%"
+              - generic [ref=e1100]:
+                - generic [ref=e1101]:
+                  - generic [ref=e1102]:
+                    - generic [ref=e1103]: 
+                    - generic [ref=e1104]: 
+                    - generic [ref=e1105]: 
+                    - generic [ref=e1106]: 
+                    - generic [ref=e1107]: 
+                  - generic [ref=e1108]:
+                    - generic [ref=e1109]: 
+                    - generic [ref=e1110]: 
+                    - generic [ref=e1111]: 
+                    - generic [ref=e1112]: 
+                    - generic [ref=e1113]: 
+                - generic [ref=e1114]: (421)
+          - link "Computer Keyboard Cleaner Brush Kit Earphone Cleaning Pen For Headset Keyboard Cleaning Tools Cleaner Keycap Puller Kit ৳85 -76%   (804)" [ref=e1115] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/computer-keyboard-cleaner-brush-kit-earphone-cleaning-pen-for-headset-keyboard-cleaning-tools-cleaner-keycap-puller-kit-i327843904-s2429096091.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1118]
+            - generic [ref=e1119]:
+              - generic [ref=e1120]: Computer Keyboard Cleaner Brush Kit Earphone Cleaning Pen For Headset Keyboard Cleaning Tools Cleaner Keycap Puller Kit
+              - generic [ref=e1122]:
+                - text: ৳85
+                - generic [ref=e1123]: "-76%"
+              - generic [ref=e1124]:
+                - generic [ref=e1125]:
+                  - generic [ref=e1126]:
+                    - generic [ref=e1127]: 
+                    - generic [ref=e1128]: 
+                    - generic [ref=e1129]: 
+                    - generic [ref=e1130]: 
+                    - generic [ref=e1131]: 
+                  - generic [ref=e1132]:
+                    - generic [ref=e1133]: 
+                    - generic [ref=e1134]: 
+                    - generic [ref=e1135]: 
+                    - generic [ref=e1136]: 
+                    - generic [ref=e1137]: 
+                - generic [ref=e1138]: (804)
+          - link "Mercusys MW325R 300Mbps Enhanced Wireless N Router ৳1,288 -19%   (185)" [ref=e1139] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/mercusys-mw325r-300mbps-i261646266-s1223181305.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1142]
+            - generic [ref=e1143]:
+              - generic [ref=e1144]: Mercusys MW325R 300Mbps Enhanced Wireless N Router
+              - generic [ref=e1146]:
+                - text: ৳1,288
+                - generic [ref=e1147]: "-19%"
+              - generic [ref=e1148]:
+                - generic [ref=e1149]:
+                  - generic [ref=e1150]:
+                    - generic [ref=e1151]: 
+                    - generic [ref=e1152]: 
+                    - generic [ref=e1153]: 
+                    - generic [ref=e1154]: 
+                    - generic [ref=e1155]: 
+                  - generic [ref=e1156]:
+                    - generic [ref=e1157]: 
+                    - generic [ref=e1158]: 
+                    - generic [ref=e1159]: 
+                    - generic [ref=e1160]: 
+                    - generic [ref=e1161]: 
+                - generic [ref=e1162]: (185)
+          - link "Gege Bear Milk Cute Pressed Powder Cake Oil Control 12g ৳244 -30%   (237)" [ref=e1163] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/gege-12g-i326830745-s1581652148.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1166]
+            - generic [ref=e1167]:
+              - generic [ref=e1168]: Gege Bear Milk Cute Pressed Powder Cake Oil Control 12g
+              - generic [ref=e1170]:
+                - text: ৳244
+                - generic [ref=e1171]: "-30%"
+              - generic [ref=e1172]:
+                - generic [ref=e1173]:
+                  - generic [ref=e1174]:
+                    - generic [ref=e1175]: 
+                    - generic [ref=e1176]: 
+                    - generic [ref=e1177]: 
+                    - generic [ref=e1178]: 
+                    - generic [ref=e1179]: 
+                  - generic [ref=e1180]:
+                    - generic [ref=e1181]: 
+                    - generic [ref=e1182]: 
+                    - generic [ref=e1183]: 
+                    - generic [ref=e1184]: 
+                    - generic [ref=e1185]: 
+                - generic [ref=e1186]: (237)
+          - link "Portable Handheld Personal Rechargeable Fan LED Digital Display 90°Adjustable ৳372 -53%   (114)" [ref=e1187] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/usb-i528903334-s2543985827.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1190]
+            - generic [ref=e1191]:
+              - generic [ref=e1192]: Portable Handheld Personal Rechargeable Fan LED Digital Display 90°Adjustable
+              - generic [ref=e1194]:
+                - text: ৳372
+                - generic [ref=e1195]: "-53%"
+              - generic [ref=e1196]:
+                - generic [ref=e1197]:
+                  - generic [ref=e1198]:
+                    - generic [ref=e1199]: 
+                    - generic [ref=e1200]: 
+                    - generic [ref=e1201]: 
+                    - generic [ref=e1202]: 
+                    - generic [ref=e1203]: 
+                  - generic [ref=e1204]:
+                    - generic [ref=e1205]: 
+                    - generic [ref=e1206]: 
+                    - generic [ref=e1207]: 
+                    - generic [ref=e1208]: 
+                    - generic [ref=e1209]: 
+                - generic [ref=e1210]: (114)
+          - link "Comfortable Foam Net Bra & Panty Set for Women, Everyday Lingerie ৳230 -42%   (168)" [ref=e1211] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/comfortable-foam-net-bra-panty-set-for-women-everyday-lingerie-i169942975-s1104760193.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1214]
+            - generic [ref=e1215]:
+              - generic [ref=e1216]: Comfortable Foam Net Bra & Panty Set for Women, Everyday Lingerie
+              - generic [ref=e1218]:
+                - text: ৳230
+                - generic [ref=e1219]: "-42%"
+              - generic [ref=e1220]:
+                - generic [ref=e1221]:
+                  - generic [ref=e1222]:
+                    - generic [ref=e1223]: 
+                    - generic [ref=e1224]: 
+                    - generic [ref=e1225]: 
+                    - generic [ref=e1226]: 
+                    - generic [ref=e1227]: 
+                  - generic [ref=e1228]:
+                    - generic [ref=e1229]: 
+                    - generic [ref=e1230]: 
+                    - generic [ref=e1231]: 
+                    - generic [ref=e1232]: 
+                    - generic [ref=e1233]: 
+                - generic [ref=e1234]: (168)
+          - link "New Gorgeous Unstitched Cotton Scrn Printed Salwar Kameez For Women ( 3 Piece ) ৳488 -65%   (232)" [ref=e1235] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/3-i319587682-s1594008312.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1238]
+            - generic [ref=e1239]:
+              - generic [ref=e1240]: New Gorgeous Unstitched Cotton Scrn Printed Salwar Kameez For Women ( 3 Piece )
+              - generic [ref=e1242]:
+                - text: ৳488
+                - generic [ref=e1243]: "-65%"
+              - generic [ref=e1244]:
+                - generic [ref=e1245]:
+                  - generic [ref=e1246]:
+                    - generic [ref=e1247]: 
+                    - generic [ref=e1248]: 
+                    - generic [ref=e1249]: 
+                    - generic [ref=e1250]: 
+                    - generic [ref=e1251]: 
+                  - generic [ref=e1252]:
+                    - generic [ref=e1253]: 
+                    - generic [ref=e1254]: 
+                    - generic [ref=e1255]: 
+                    - generic [ref=e1256]: 
+                    - generic [ref=e1257]: 
+                - generic [ref=e1258]: (232)
+          - link "Dual Lens mini Outdoor Ip Camera ৳1,799   (35)" [ref=e1259] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/dual-lens-mini-outdoor-ip-camera-i378661419-s1899949653.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1262]
+            - generic [ref=e1263]:
+              - generic [ref=e1264]: Dual Lens mini Outdoor Ip Camera
+              - generic [ref=e1266]: ৳1,799
+              - generic [ref=e1267]:
+                - generic [ref=e1268]:
+                  - generic [ref=e1269]:
+                    - generic [ref=e1270]: 
+                    - generic [ref=e1271]: 
+                    - generic [ref=e1272]: 
+                    - generic [ref=e1273]: 
+                    - generic [ref=e1274]: 
+                  - generic [ref=e1275]:
+                    - generic [ref=e1276]: 
+                    - generic [ref=e1277]: 
+                    - generic [ref=e1278]: 
+                    - generic [ref=e1279]: 
+                    - generic [ref=e1280]: 
+                - generic [ref=e1281]: (35)
+          - link "New Rechargeable Folding Table Fan with Led Light -Table Fans -Sara Collection Zone ৳690 -51%   (94)" [ref=e1282] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/new-rechargeable-folding-table-fan-with-led-light-table-fans-sara-collection-zone-i351326976-s1722876754.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1285]
+            - generic [ref=e1286]:
+              - generic [ref=e1287]: New Rechargeable Folding Table Fan with Led Light -Table Fans -Sara Collection Zone
+              - generic [ref=e1289]:
+                - text: ৳690
+                - generic [ref=e1290]: "-51%"
+              - generic [ref=e1291]:
+                - generic [ref=e1292]:
+                  - generic [ref=e1293]:
+                    - generic [ref=e1294]: 
+                    - generic [ref=e1295]: 
+                    - generic [ref=e1296]: 
+                    - generic [ref=e1297]: 
+                    - generic [ref=e1298]: 
+                  - generic [ref=e1299]:
+                    - generic [ref=e1300]: 
+                    - generic [ref=e1301]: 
+                    - generic [ref=e1302]: 
+                    - generic [ref=e1303]: 
+                    - generic [ref=e1304]: 
+                - generic [ref=e1305]: (94)
+          - link "Carton Style kids bag toddler backpack with leash messenger bag kids kids cartoon backpack cartoon school backpack ৳285 -50%   (416)" [ref=e1306] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/-i293081068-s1300404127.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1309]
+            - generic [ref=e1310]:
+              - generic [ref=e1311]: Carton Style kids bag toddler backpack with leash messenger bag kids kids cartoon backpack cartoon school backpack
+              - generic [ref=e1313]:
+                - text: ৳285
+                - generic [ref=e1314]: "-50%"
+              - generic [ref=e1315]:
+                - generic [ref=e1316]:
+                  - generic [ref=e1317]:
+                    - generic [ref=e1318]: 
+                    - generic [ref=e1319]: 
+                    - generic [ref=e1320]: 
+                    - generic [ref=e1321]: 
+                    - generic [ref=e1322]: 
+                  - generic [ref=e1323]:
+                    - generic [ref=e1324]: 
+                    - generic [ref=e1325]: 
+                    - generic [ref=e1326]: 
+                    - generic [ref=e1327]: 
+                    - generic [ref=e1328]: 
+                - generic [ref=e1329]: (416)
+          - link "New Exclusive Designed Digital pint work 1piece long kurti For Stylish Women ৳372 -73%   (20)" [ref=e1330] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/1-i490405547-s2373591219.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1333]
+            - generic [ref=e1334]:
+              - generic [ref=e1335]: New Exclusive Designed Digital pint work 1piece long kurti For Stylish Women
+              - generic [ref=e1337]:
+                - text: ৳372
+                - generic [ref=e1338]: "-73%"
+              - generic [ref=e1339]:
+                - generic [ref=e1340]:
+                  - generic [ref=e1341]:
+                    - generic [ref=e1342]: 
+                    - generic [ref=e1343]: 
+                    - generic [ref=e1344]: 
+                    - generic [ref=e1345]: 
+                    - generic [ref=e1346]: 
+                  - generic [ref=e1347]:
+                    - generic [ref=e1348]: 
+                    - generic [ref=e1349]: 
+                    - generic [ref=e1350]: 
+                    - generic [ref=e1351]: 
+                    - generic [ref=e1352]: 
+                - generic [ref=e1353]: (20)
+          - link "Symphony ATOM 5 (8GB*/64GB) | 6.74” HD+ IPS | Side-Mounted Fingerprint & Face Unlock | 5000mAh Battery | 52MP & 5MP Camera ৳7,999 -6%   (22)" [ref=e1354] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/products/symphony-atom-5-864-i466516250-s2242430633.html?pvid=57940aff-f591-4a67-804e-a0dbca418cd0&search=jfy&scm=1007.51705.446531.0
+            - img [ref=e1357]
+            - generic [ref=e1358]:
+              - generic [ref=e1359]: Symphony ATOM 5 (8GB*/64GB) | 6.74” HD+ IPS | Side-Mounted Fingerprint & Face Unlock | 5000mAh Battery | 52MP & 5MP Camera
+              - generic [ref=e1361]:
+                - text: ৳7,999
+                - generic [ref=e1362]: "-6%"
+              - generic [ref=e1363]:
+                - generic [ref=e1364]:
+                  - generic [ref=e1365]:
+                    - generic [ref=e1366]: 
+                    - generic [ref=e1367]: 
+                    - generic [ref=e1368]: 
+                    - generic [ref=e1369]: 
+                    - generic [ref=e1370]: 
+                  - generic [ref=e1371]:
+                    - generic [ref=e1372]: 
+                    - generic [ref=e1373]: 
+                    - generic [ref=e1374]: 
+                    - generic [ref=e1375]: 
+                    - generic [ref=e1376]: 
+                - generic [ref=e1377]: (22)
+        - generic [ref=e1379] [cursor=pointer]: Load More
+  - generic [ref=e1380]:
+    - generic [ref=e1382]:
+      - generic [ref=e1383]:
+        - heading "Customer Care" [level=3] [ref=e1384]
+        - list [ref=e1385]:
+          - listitem [ref=e1386]:
+            - link "Help Center" [ref=e1387] [cursor=pointer]:
+              - /url: //buyer-helpcenter.daraz.com.bd/s/page
+          - listitem [ref=e1388]:
+            - link "How to Buy" [ref=e1389] [cursor=pointer]:
+              - /url: //helpcenter.daraz.com.bd/page/knowledge?language=en&pageId=11&category=1000001032&scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233775_7696023&knowledge=1000005321
+          - listitem [ref=e1390]:
+            - link "Returns & Refunds" [ref=e1391] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/wow/i/bd/help-pages/how-to-return?hybrid=1&scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233776_7696023
+          - listitem [ref=e1392]:
+            - link "Contact Us" [ref=e1393] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/contact-us/?scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233777_7696023
+          - listitem [ref=e1394]:
+            - link "Terms & Conditions" [ref=e1395] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/weekly-campaigns/customer-tc
+          - listitem [ref=e1396]:
+            - link "CCMS - Central Complain Management System" [ref=e1397] [cursor=pointer]:
+              - /url: //ccms.gov.bd/ticket-apply?scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233779_7696023&token=DAR-3011-iIMd2
+      - generic [ref=e1398]:
+        - heading "Daraz" [level=3] [ref=e1399]
+        - list [ref=e1400]:
+          - listitem [ref=e1401]:
+            - link "About Daraz" [ref=e1402] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/about-us/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348799_2538033
+          - listitem [ref=e1403]:
+            - link "Digital Payments" [ref=e1404] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/pay/daraz-pay?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348800_2538033
+          - listitem [ref=e1405]:
+            - link "Daraz Card" [ref=e1406] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/help-page/daraz-co-brand-card?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6502124219_2538033
+          - listitem [ref=e1407]:
+            - link "Daraz Blog" [ref=e1408] [cursor=pointer]:
+              - /url: //blog.daraz.com.bd/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348802_2538033
+          - listitem [ref=e1409]:
+            - link "Daraz Cares" [ref=e1410] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-cares/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348803_2538033
+          - listitem [ref=e1411]:
+            - link "Privacy Policy" [ref=e1412] [cursor=pointer]:
+              - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/weekly-campaigns/privacy-policy
+          - listitem [ref=e1413]:
+            - link "Daraz Mart" [ref=e1414] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/dmart/dmart-home?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348804_2538033
+          - listitem [ref=e1415]:
+            - link "Daraz App" [ref=e1416] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/mobile-apps/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348806_2538033
+          - listitem [ref=e1417]:
+            - link "Daraz Exclusives" [ref=e1418] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-exclusive-products/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348807_2538033
+          - listitem [ref=e1419]:
+            - link "Daraz Donates" [ref=e1420] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/help-page/daraz-donation-to-make-difference?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6502117438_2538033
+          - listitem [ref=e1421]:
+            - link "Daraz University" [ref=e1422] [cursor=pointer]:
+              - /url: //university.daraz.com.bd?scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361449_2538025
+          - listitem [ref=e1423]:
+            - link "Sell on Daraz" [ref=e1424] [cursor=pointer]:
+              - /url: //sellercenter.daraz.com.bd/apps/seller/login?scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361450_2538025&regist=true
+          - listitem [ref=e1425]:
+            - link "Code of Conduct" [ref=e1426] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/wow/i/bd/help-pages/code-of-conduct?hybrid=1&scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361451_2538025
+          - listitem [ref=e1427]:
+            - link "Join the Daraz Affiliate Program" [ref=e1428] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-affiliate-program/?scm=1003.4.icms-zebra-100022982-2888459.OTHER_6035955355_2538025
+      - generic [ref=e1429]:
+        - generic:
+          - img "Download App" [ref=e1431]
+          - generic [ref=e1432]:
+            - generic [ref=e1433]: Happy Shopping
+            - generic [ref=e1434]: Download App
+          - generic [ref=e1435]:
+            - link "Apple App Download" [ref=e1436] [cursor=pointer]:
+              - /url: //itunes.apple.com/app/id978058048?mt=8&scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051
+              - img "Apple App Download" [ref=e1437]
+            - link "Android App Download" [ref=e1438] [cursor=pointer]:
+              - /url: //play.google.com/store/apps/details?id=com.daraz.android&scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051
+              - img "Android App Download" [ref=e1439]
+            - link "Huawei App Download" [ref=e1440] [cursor=pointer]:
+              - /url: //appgallery.huawei.com/?scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051#/app/C100948133
+              - img "Huawei App Download" [ref=e1441]
+    - generic [ref=e1443]:
+      - generic [ref=e1444]:
+        - heading "Payment Methods" [level=3] [ref=e1445]
+        - generic [ref=e1446]:
+          - img "cod" [ref=e1448]
+          - img "visa" [ref=e1450]
+          - img "master-card" [ref=e1452]
+          - img "american-express" [ref=e1454]
+          - img "easy-monthly-installments" [ref=e1456]
+          - img "bKash" [ref=e1458]
+          - img "nagad" [ref=e1460]
+          - img "rainbow" [ref=e1462]
+          - img "rocket" [ref=e1464]
+      - generic [ref=e1465]:
+        - heading "Verified by" [level=3] [ref=e1466]
+        - img "Daraz" [ref=e1470]
+      - generic [ref=e1471]:
+        - heading "DBID" [level=3] [ref=e1472]
+        - generic [ref=e1473]:
+          - paragraph [ref=e1474]: "Registration ID :"
+          - paragraph [ref=e1475]: "304903094"
+    - generic [ref=e1477]:
+      - generic [ref=e1478]:
+        - generic [ref=e1479]:
+          - heading "Experience Personalized Online Shopping in Bangladesh with Daraz.com.bd" [level=1] [ref=e1480]
+          - paragraph [ref=e1481]: Online Shopping BD has never been easier. Daraz.com.bd is best online shopping store in Bangladesh that features 10+ million products at affordable prices. As bangaldesh's online shopping landscape is expanding every year, online shopping in dhaka, chittagong, khulna, sylhet and other big cities are also gaining momentum. Daraz is among best websites for online shopping in bangladesh that promises fast, reliable and convenient delivery of products to your doorstep. Daraz being the trusted online shop in Bangladesh aims to provide a trouble-free shopping experience for the people of Bangladesh but is also providing ample opportunity for international online shopping from Bangladesh. Daraz aims to make online shopping accessible to all parts of the country.
+        - generic [ref=e1482]:
+          - heading [level=3]
+          - text: Everyone is encouraged to shop with confidence at Daraz.com.bd as our strict buyer’s protection policies ensure no risks while shopping online.
+        - generic:
+          - heading [level=3]
+        - generic [ref=e1483]:
+          - heading [level=3]
+          - text: Among tons of online stores in Bangladesh, Daraz aims to strictly adhere to international quality standards ensuring trust and reliability in customer service and originality in product delivery. Realizing the surge in ecommerce platform in bangladesh, Daraz aims to redefine online shopping experience with home delivery, cash on delivery and installment facility for shoppers across country. Our assortment includes 100% original products from leading electronics, fashion, beauty, and lifestyle brands. Especially for shoppers who do not have debit cards or credit cards, Daraz provides a facility of online shopping with cash on delivery to your home. To enhance your online shopping experience, we encourage you to download
+          - link "Daraz app" [ref=e1484] [cursor=pointer]:
+            - /url: https://www.daraz.com.bd/mobile-apps/
+          - text: for Android & IOS and have a taste of personalized shopping experience based on your interest and shopping needs. Watch BPL live on Daraz App free. You can also check
+          - link "Daraz online shopping" [ref=e1485] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=knxlpZk3NW0
+          - text: videos on YouTube to have a clear idea.
+        - generic:
+          - heading [level=3]
+        - generic [ref=e1486]:
+          - heading [level=3]
+          - text: Daraz is a global online marketplace with ecommerce stores in
+          - link "Pakistan" [ref=e1487] [cursor=pointer]:
+            - /url: https://www.daraz.pk/
+          - text: ", Bangladesh,"
+          - link "Nepal" [ref=e1488] [cursor=pointer]:
+            - /url: https://www.daraz.com.np/
+          - text: ","
+          - link "Sri Lanka" [ref=e1489] [cursor=pointer]:
+            - /url: https://www.daraz.lk/
+          - text: and
+          - link "Myanmar" [ref=e1490] [cursor=pointer]:
+            - /url: https://www.shop.com.mm/
+          - text: .
+        - generic [ref=e1491]:
+          - heading "Trending" [level=3] [ref=e1492]
+          - paragraph [ref=e1493]:
+            - link "Valentine's Day Sale" [ref=e1494] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/valentines-day-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290028_7514229
+            - text: ","
+            - link "Daraz Flash Sale" [ref=e1495] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/flash-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290029_7514229
+            - text: ","
+            - link "Eid Big Sale" [ref=e1496] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/eid-big-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290030_7514229
+            - text: ","
+            - link "Electronics Week Sale" [ref=e1497] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/electronics-week/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290031_7514229
+            - text: ","
+            - link "Deals Under 999" [ref=e1498] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/deals-under-999/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290032_7514229
+            - text: ","
+            - link "Top Up & eStore" [ref=e1499] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/topups-and-estore/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290033_7514229
+            - text: ","
+            - link "10.10 Sale" [ref=e1500] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/10-10-mega-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290034_7514229
+            - text: ","
+            - link "11.11 Sale" [ref=e1501] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/11-11-sale-gcp/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290035_7514229
+            - text: ","
+            - link "Fatafati Friday" [ref=e1502] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/fatafati-friday/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290036_7514229
+            - text: ","
+            - link "12.12 Sale" [ref=e1503] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/12-12-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290037_7514229
+            - text: ","
+            - link "Daraz EMI Partners" [ref=e1504] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/emi-partners/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290038_7514229
+            - text: ","
+            - link "Daraz Payment Partners" [ref=e1505] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/payment-partners/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290039_7514229
+            - text: ","
+            - link "Daraz Mall" [ref=e1506] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/daraz-mall/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290040_7514229
+            - text: ","
+            - link "Online Grocery Shop" [ref=e1507] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/dmart/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290041_7514229
+            - text: ","
+            - link "Mega Deals" [ref=e1508] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/mega-deals/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290042_7514229
+            - text: ","
+            - link "Hot Deals" [ref=e1509] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/hot-deals/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290046_7514229
+            - text: ","
+            - link "bKash Offers" [ref=e1510] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/bkash-offers/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290048_7514229
+            - text: ","
+            - link "Daraz Voucher" [ref=e1511] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/collectible-vouchers/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290043_7514229
+            - text: ","
+            - link "Shake Shake" [ref=e1512] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/shake-shake/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290049_7514229
+            - text: ","
+            - link "Mystery Box" [ref=e1513] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/mystery-box/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502079818_7514229
+            - text: ","
+            - link "Free Shipping" [ref=e1514] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/free-shipping/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502081815_7514229
+            - text: ","
+            - link "Gorur Haat" [ref=e1515] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/gorur-haat/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290044_7514229
+            - text: ","
+            - link "Anniversary Sale" [ref=e1516] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/anniversary-sale/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290045_7514229
+            - text: ","
+            - link "Happy Hour" [ref=e1517] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/happy-hour/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290047_7514229
+            - text: ","
+            - link "Big Home Makeover" [ref=e1518] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/big-home-makeover/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290051_7514229
+            - text: ","
+            - link "Bengali New Year Sale" [ref=e1519] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/pohela-boishakh/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290052_7514229
+            - text: ","
+            - link "Ramadan Bazar" [ref=e1520] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/ramadan-bazar/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290053_7514229
+            - text: ","
+            - link "Online Bill Payment" [ref=e1521] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/d-bills/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290055_7514229
+            - text: ","
+            - link "Online Air Ticket" [ref=e1522] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/tag/air-ticket/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290056_7514229
+            - text: ","
+            - link "Daraz Mall Fest" [ref=e1523] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/daraz-mall-fest/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6054290057_7514229
+            - text: ","
+            - link "Daraz Shopamania Sale" [ref=e1524] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/daraz-shopamania/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6500077340_7514229
+            - text: ","
+            - link "Daraz Cares" [ref=e1525] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/daraz-cares/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6501311995_7514229
+            - text: ","
+            - link "Daraz Becho Bacho" [ref=e1526] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/daraz-becho-bacho/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6501512478_7514229
+            - text: ","
+            - link "Sell On Daraz" [ref=e1527] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/sell-on-daraz/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502048874_7514229
+            - text: ","
+            - link "BD T20 World Cup Jersey" [ref=e1528] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/tag/bangladesh-cricket-jersey/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502010967_7514229
+            - text: ","
+            - link "BPL Live" [ref=e1529] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/cricket-live-streaming/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502166652_7514229
+            - text: ","
+            - link "Tour and Travel Package" [ref=e1530] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/dg-hotel-tra/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502222254_7514229
+            - text: ","
+            - link "Pohela Boishakh Sale" [ref=e1531] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/bn-pohela-boishakh/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502320991_7514229
+            - text: ","
+            - link "ইলেকট্রনিক্স উইক" [ref=e1532] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/bn-electronics-week/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502391440_7514229
+            - text: ","
+            - link "Grand Eid Fest" [ref=e1533] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/grand-eid-fest/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502414080_7514229
+            - text: ","
+            - link "গ্র্যান্ড ঈদ ফেস্ট" [ref=e1534] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/bn-grand-eid-fest/?scm=1003.4.icms-zebra-100022982-6787106.OTHER_6502414081_7514229
+            - text: ","
+      - generic [ref=e1536]:
+        - heading "Top Categories & Brands" [level=3] [ref=e1537]
+        - heading "MOBILE PHONES" [level=4] [ref=e1538]
+        - link "Xiaomi Mobile" [ref=e1539] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/xiaomi/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325285_2538087
+        - text: ","
+        - link "Samsung Mobile" [ref=e1540] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/samsung/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325286_2538087
+        - text: ","
+        - link "Huawei Mobile" [ref=e1541] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/huawei/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325287_2538087
+        - text: ","
+        - link "Symphony Mobile" [ref=e1542] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/symphony/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325288_2538087
+        - text: ","
+        - link "Nokia Mobile" [ref=e1543] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/nokia/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325289_2538087
+        - text: ","
+        - link "OnePlus Mobile" [ref=e1544] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/oneplus/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325290_2538087
+        - text: ","
+        - link "realme Mobile" [ref=e1545] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/realme-201624/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325291_2538087
+        - text: ","
+        - link "Infinix Mobile" [ref=e1546] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/infinix/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325292_2538087
+        - text: ","
+        - link "Oppo Mobile" [ref=e1547] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/oppo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325293_2538087
+        - text: ","
+        - link "Vivo Mobile" [ref=e1548] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/vivo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325294_2538087
+        - heading "MOBILE ACCESSORIES" [level=4] [ref=e1549]
+        - link "Earphone" [ref=e1550] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/earphones-headsets/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325296_2538087
+        - text: ","
+        - link "Phone Cover" [ref=e1551] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/mobile-cases-covers/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325297_2538087
+        - text: ","
+        - link "Mobile Charger" [ref=e1552] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/phone-tablet-chargers/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325298_2538087
+        - text: ","
+        - link "Mobile Battery" [ref=e1553] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/phone-tablet-batteries/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325299_2538087
+        - text: ","
+        - link "Power Bank" [ref=e1554] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/mobile-power-banks/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325300_2538087
+        - text: ","
+        - link "Memory Card" [ref=e1555] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/memory-cards/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325301_2538087
+        - text: ","
+        - link "Smart Watch" [ref=e1556] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smart-watches/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325302_2538087
+        - heading "LAPTOPS" [level=4] [ref=e1557]
+        - link "HP Laptops" [ref=e1558] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/laptops/hp/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325304_2538087
+        - text: ","
+        - link "Dell Laptops" [ref=e1559] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/laptops/dell/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325305_2538087
+        - text: ","
+        - link "Asus Laptops" [ref=e1560] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/laptops/asus/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325306_2538087
+        - text: ","
+        - link "Lenovo Laptops" [ref=e1561] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/laptops/lenovo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325307_2538087
+        - text: ","
+        - link "Graphics Card" [ref=e1562] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/computer-graphic-cards/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325308_2538087
+        - heading "LED TV" [level=4] [ref=e1563]
+        - link "Sony Led TV" [ref=e1564] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/led-tvs/sony/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325310_2538087
+        - text: ","
+        - link "Samsung Led TV" [ref=e1565] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/led-tvs/samsung/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325311_2538087
+        - text: ","
+        - link "LG Led TV" [ref=e1566] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/led-tvs/lg/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325312_2538087
+        - text: ","
+        - link "Singer Led TV" [ref=e1567] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/led-tvs/singer/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325313_2538087
+        - text: ","
+        - link "17 Inch LED TV" [ref=e1568] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/17-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325314_2538087
+        - text: ","
+        - link "19 Inch LED TV" [ref=e1569] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/19-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325315_2538087
+        - text: ","
+        - link "21 Inch LED TV" [ref=e1570] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/21-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325316_2538087
+        - text: ","
+        - link "24 Inch LED TV" [ref=e1571] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/24-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325317_2538087
+        - text: ","
+        - link "28 Inch LED TV" [ref=e1572] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/28-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325318_2538087
+        - text: ","
+        - link "32 Inch LED TV" [ref=e1573] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/32-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325319_2538087
+        - text: ","
+        - link "40 Inch LED TV" [ref=e1574] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/40-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325320_2538087
+        - text: ","
+        - link "42 Inch LED TV" [ref=e1575] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/42-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325321_2538087
+        - text: ","
+        - link "48 Inch LED TV" [ref=e1576] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/48-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325322_2538087
+        - text: ","
+        - link "50 Inch LED TV" [ref=e1577] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/50-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325323_2538087
+        - text: ","
+        - link "55 Inch LED TV" [ref=e1578] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/55-inch-led-tv/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325324_2538087
+        - heading "HOME APPLIANCES" [level=4] [ref=e1579]
+        - link "Air Conditioners" [ref=e1580] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/air-conditioners/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325326_2538087
+        - text: ","
+        - link "Refrigerators" [ref=e1581] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/refrigerators/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325327_2538087
+        - text: ","
+        - link "Deep Freezers" [ref=e1582] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/freezers/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325328_2538087
+        - text: ","
+        - link "Generators" [ref=e1583] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/generators/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325329_2538087
+        - text: ","
+        - link "UPS Battery" [ref=e1584] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/power-supplies/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325330_2538087
+        - text: ","
+        - link "Washing Machines" [ref=e1585] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/washing-machine/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325331_2538087
+        - text: ","
+        - link "Heaters" [ref=e1586] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/heaters/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325332_2538087
+        - text: ","
+        - link "Solar Panel" [ref=e1587] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/solar-panel/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325333_2538087
+        - text: ","
+        - link "Lenovo HE05 Earphone" [ref=e1588] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lenovo-he05-earphone/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325334_2538087
+        - text: ","
+        - link "DSLR Cameras" [ref=e1589] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/dslr-hybrid-cameras/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325335_2538087
+        - text: ","
+        - link "Air Cooler" [ref=e1590] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/portable-ac/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325336_2538087
+        - text: ","
+        - link "Microwave Oven" [ref=e1591] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/microwave/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325337_2538087
+        - text: ","
+        - link "Water Filters" [ref=e1592] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/water-dispensers-purifiers/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325338_2538087
+        - heading "FANS" [level=4] [ref=e1593]
+        - link "Click Fan" [ref=e1594] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/click/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325340_2538087
+        - text: ","
+        - link "Mira Fan" [ref=e1595] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/mira/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325341_2538087
+        - text: ","
+        - link "Baseus Fan" [ref=e1596] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/baseus/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325342_2538087
+        - text: ","
+        - link "BRB Fan" [ref=e1597] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/brb/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325343_2538087
+        - text: ","
+        - link "Defender Fan" [ref=e1598] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/defender/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325344_2538087
+        - text: ","
+        - link "National fan" [ref=e1599] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/national/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325345_2538087
+        - text: ","
+        - link "Sony Fan" [ref=e1600] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/sony/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325346_2538087
+        - text: ","
+        - link "Sunca Fan" [ref=e1601] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/sunca/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325347_2538087
+        - text: ","
+        - link "Orient Fan" [ref=e1602] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/orient-1/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325348_2538087
+        - text: ","
+        - link "Superstar Fan" [ref=e1603] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/super-star/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325349_2538087
+        - text: ","
+        - link "Havells Fan" [ref=e1604] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/havells/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325350_2538087
+        - text: ","
+        - link "Conion Fan" [ref=e1605] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/conion/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325351_2538087
+        - text: ","
+        - link "Kashmir Fan" [ref=e1606] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/all-fans/kashmir-1/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325352_2538087
+        - heading "BIKES" [level=4] [ref=e1607]
+        - link "Bajaj Bike" [ref=e1608] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/standard-bikes/bajaj/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325354_2538087
+        - text: ","
+        - link "Discover 110cc" [ref=e1609] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/discover-110cc/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325355_2538087
+        - text: ","
+        - link "Discover 125cc" [ref=e1610] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/discover-125cc/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325356_2538087
+        - text: ","
+        - link "Pulsar 150cc" [ref=e1611] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/pulsar-150cc/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325357_2538087
+        - text: ","
+        - link "Hero Hunk" [ref=e1612] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hero-hunk/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325358_2538087
+        - text: ","
+        - link "TVS Metro" [ref=e1613] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tvs-metro/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325359_2538087
+        - text: ","
+        - link "Apache RTR 160 4v" [ref=e1614] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/apache-rtr-160-4v/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325360_2538087
+        - text: ","
+        - link "Toyota CHR" [ref=e1615] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/toyota-chr/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325361_2538087
+        - text: ","
+        - link "Toyota Aqua" [ref=e1616] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/toyota-aqua/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325362_2538087
+        - text: ","
+        - link "Toyota Prado" [ref=e1617] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/toyota-prado/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325363_2538087
+        - heading "MEDICINES" [level=4] [ref=e1618]
+        - link "Fexo 120" [ref=e1619] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/fexo-120/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325365_2538087
+        - text: ","
+        - link "Monas 10" [ref=e1620] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/monas-10/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325366_2538087
+        - text: ","
+        - link "Napa Extend" [ref=e1621] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/napa-extend/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325367_2538087
+        - text: ","
+        - link "Ambrox Syrup" [ref=e1622] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/ambrox-syrup/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325368_2538087
+        - text: ","
+        - link "Maxpro 20" [ref=e1623] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/maxpro-20/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325369_2538087
+        - text: ","
+        - link "Beklo 10" [ref=e1624] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/beklo-10/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325370_2538087
+        - text: ","
+        - link "Vigorex 50" [ref=e1625] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vigorex-50/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325371_2538087
+        - heading "TRENDING WALTON PRODUCTS" [level=4] [ref=e1626]
+        - link "Walton Mobile" [ref=e1627] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smartphones/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325373_2538087
+        - text: ","
+        - link "Walton Led TV" [ref=e1628] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/led-tvs/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325374_2538087
+        - text: ","
+        - link "Walton AC" [ref=e1629] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/air-conditioners/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325375_2538087
+        - text: ","
+        - link "Walton Refrigerator" [ref=e1630] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/refrigerators/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325376_2538087
+        - text: ","
+        - link "Walton Laptop" [ref=e1631] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/laptops/walton-computers-121088282/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325377_2538087
+        - text: ","
+        - link "Walton Oven" [ref=e1632] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/microwaves/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325378_2538087
+        - text: ","
+        - link "Walton Blender" [ref=e1633] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/blenders/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325379_2538087
+        - text: ","
+        - link "Walton Microwave Oven" [ref=e1634] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/microwave/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325380_2538087
+        - text: ","
+        - link "Walton Air Cooler" [ref=e1635] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/portable-ac/walton-brand/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325381_2538087
+        - text: ","
+        - link "Walton Smart TV" [ref=e1636] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/smart-tvs/walton/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325382_2538087
+        - text: ","
+        - link "Walton Computers" [ref=e1637] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/walton-computers-121088282/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325383_2538087
+        - heading "POPULAR STORES BY CATEGORY" [level=4] [ref=e1638]
+        - link "Online Stationery Shop" [ref=e1639] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/stationery-craft/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325385_2538087
+        - text: ","
+        - link "Online Book Shop BD" [ref=e1640] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/books-magazines/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325386_2538087
+        - text: ","
+        - link "Online Makeup Store" [ref=e1641] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/womens-make-up/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325387_2538087
+        - text: ","
+        - link "Baby Toys Shop" [ref=e1642] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/toys-games/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325388_2538087
+        - text: ","
+        - link "Pet Supplies Store" [ref=e1643] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/pet-supplies-shop/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325389_2538087
+        - text: ","
+        - link "Online Grocery Shop" [ref=e1644] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/dmart/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325390_2538087
+        - text: ","
+        - link "Online Medicine Store" [ref=e1645] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/medicines/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325391_2538087
+        - heading "TRENDING NOW" [level=4] [ref=e1646]
+        - link "BTS Mask" [ref=e1647] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bts-mask/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325393_2538087
+        - text: ","
+        - link "BTS Bag" [ref=e1648] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bts-bag/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325394_2538087
+        - text: ","
+        - link "BTS Notebook" [ref=e1649] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bts-notebook/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325395_2538087
+        - text: ","
+        - link "Autocad" [ref=e1650] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/autocad-software/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325396_2538087
+        - text: ","
+        - link "Beard Growth Oil" [ref=e1651] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/beard-growth-oil/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325397_2538087
+        - text: ","
+        - link "BTS Army Bomb" [ref=e1652] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bts-army-bomb/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325398_2538087
+        - text: ","
+        - link "Mira Fan" [ref=e1653] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/mira-fan/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325399_2538087
+        - text: ","
+        - link "24K Gold Soap" [ref=e1654] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/24k-gold-soap/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325400_2538087
+        - text: ","
+        - link "Agar Agar Powder" [ref=e1655] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/agar-agar-powder/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325401_2538087
+        - text: ","
+        - link "Vintage T9 Trimmer" [ref=e1656] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vintage-t9-trimmer/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325402_2538087
+        - text: ","
+        - link "Jolochip" [ref=e1657] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/jolochip/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325403_2538087
+        - text: ","
+        - link "IPS Machine" [ref=e1658] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/ips-machine/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325404_2538087
+        - text: ","
+        - link "GFC Stand Fan" [ref=e1659] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/gfc-stand-fan/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325405_2538087
+        - text: ","
+        - link "BMW Umbrella" [ref=e1660] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bmw-umbrella/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325406_2538087
+        - text: ","
+        - link "TWS F9" [ref=e1661] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tws-f9/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325407_2538087
+        - text: ","
+        - link "K8 Microphone" [ref=e1662] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/k8-microphone/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325408_2538087
+        - text: ","
+        - link "Colmi P28 Plus" [ref=e1663] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/colmi-p28-plus/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325409_2538087
+        - text: ","
+        - link "realme C35 Back Cover" [ref=e1664] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c35-back-cover/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325410_2538087
+        - text: ","
+        - link "Muuchstac Face Wash" [ref=e1665] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/muuchstac-face-wash/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325411_2538087
+        - text: ","
+        - link "Haylou RS4 Plus Smartwatch" [ref=e1666] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/haylou-rs4-plus-smartwatch/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325412_2538087
+        - text: ","
+        - link "Helfit Tablet" [ref=e1667] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/helfit-tablet/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325413_2538087
+        - text: ","
+        - link "T500 Smart Watch" [ref=e1668] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/t500-smart-watch/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325414_2538087
+        - text: ","
+        - link "Red Bull" [ref=e1669] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/red-bull/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325415_2538087
+        - text: ","
+        - link "Quran Sharif" [ref=e1670] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/quran-sharif/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325416_2538087
+        - text: ","
+        - link "Rahimafrooz IPS" [ref=e1671] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rahimafrooz-ips/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325417_2538087
+        - text: ","
+        - link "Reading Table" [ref=e1672] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/reading-table/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325418_2538087
+        - text: ","
+        - link "WGP Mini UPS" [ref=e1673] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/wgp-mini-ups/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325419_2538087
+        - text: ","
+        - link "KALBOR Watch" [ref=e1674] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/kalbor-watch/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325420_2538087
+        - text: ","
+        - link "Xiaomi Solove F5" [ref=e1675] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-solove-f5/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325421_2538087
+        - text: ","
+        - link "UiiSii HM13" [ref=e1676] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/uiisii-hm13/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325422_2538087
+        - text: ","
+        - link "Rich Dad Poor Dad" [ref=e1677] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rich-dad-poor-dad/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325423_2538087
+        - text: ","
+        - link "Kieslect KR Pro" [ref=e1678] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/kieslect-kr-pro/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325424_2538087
+        - text: ","
+        - link "Epson l130" [ref=e1679] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/epson-l130/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325425_2538087
+        - text: ","
+        - link "SKMEI 1787" [ref=e1680] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/skmei-1787/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325426_2538087
+        - text: ","
+        - link "Jafran" [ref=e1681] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/jafran/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325427_2538087
+        - text: ","
+        - link "RFL Almirah" [ref=e1682] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rfl-almirah/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325428_2538087
+        - text: ","
+        - link "Geo R11" [ref=e1683] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/geo-r11/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325429_2538087
+        - text: ","
+        - link "Lamborghini Shoes" [ref=e1684] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lamborghini-shoes/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325430_2538087
+        - text: ","
+        - link "Nizoder Shampoo" [ref=e1685] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/nizoder-shampoo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325431_2538087
+        - text: ","
+        - link "Rado Watch" [ref=e1686] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rado-watch/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325432_2538087
+        - text: ","
+        - link "Joyroom T03s Pro" [ref=e1687] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/joyroom-t03s-pro/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325433_2538087
+        - text: ","
+        - link "W Collagen Juice" [ref=e1688] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/w-collagen-juice/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325434_2538087
+        - text: ","
+        - link "Kiss Beauty Lip Oil" [ref=e1689] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/kiss-beauty-lip-oil/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325435_2538087
+        - text: ","
+        - link "RSL Racket" [ref=e1690] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rsl-racket/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325436_2538087
+        - text: ","
+        - link "Hotpot" [ref=e1691] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hotpot/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325437_2538087
+        - text: ","
+        - link "Yonex Carbonex 35" [ref=e1692] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/yonex-carbonex-35/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325438_2538087
+        - text: ","
+        - link "Golden wing TRUE GW970" [ref=e1693] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/golden-wing-true-gw970/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325439_2538087
+        - text: ","
+        - link "Sakura Plum" [ref=e1694] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/sakura-plum/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325440_2538087
+        - text: ","
+        - link "Vitamin E Cream" [ref=e1695] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vitamin-e-cream/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325441_2538087
+        - text: ","
+        - link "Wall Cabinet" [ref=e1696] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/wall-cabinet/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325442_2538087
+        - text: ","
+        - link "Heavy Metal T-shirt" [ref=e1697] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/heavy-metal-t-shirt/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325443_2538087
+        - text: ","
+        - link "Green Mask Stick" [ref=e1698] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/green-mask-stick/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325444_2538087
+        - text: ","
+        - link "REMAX RM-510" [ref=e1699] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/remax-rm-510/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325445_2538087
+        - text: ","
+        - link "D116 Smart Watch" [ref=e1700] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/d116-smart-watch/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325446_2538087
+        - text: ","
+        - link "Watch price in bangladesh" [ref=e1701] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/mens-watches/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325447_2538087
+        - heading "LOCAL MOBILE SEARCH" [level=4] [ref=e1702]
+        - link "শাওমি মোবাইল" [ref=e1703] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-xiaomi-smartphones/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325449_2538087
+        - text: ","
+        - link "স্যামসাং মোবাইল" [ref=e1704] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-samsung-smartphones/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325450_2538087
+        - heading "TOP BEAUTY PRODUCTS" [level=4] [ref=e1705]
+        - link "Night Cream For Women" [ref=e1706] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/night-cream-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325452_2538087
+        - text: ","
+        - link "Eye Brush Set" [ref=e1707] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/eye-brush-set/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325453_2538087
+        - text: ","
+        - link "Soap Dispenser" [ref=e1708] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/soap-dispenser/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325454_2538087
+        - text: ","
+        - link "Highlighter Palette" [ref=e1709] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/highlighter-palette/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325455_2538087
+        - text: ","
+        - link "Black Head Remover" [ref=e1710] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/black-head-remover/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325456_2538087
+        - text: ","
+        - link "Harbal Hair Oil" [ref=e1711] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/harbal-hair-oil/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325457_2538087
+        - text: ","
+        - link "Waterproof Eyeliner" [ref=e1712] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/waterproof-eyeliner/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325458_2538087
+        - text: ","
+        - link "Hair Fall Control Shampoo" [ref=e1713] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hair-fall-control-shampoo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325459_2538087
+        - text: ","
+        - link "Pad For Women" [ref=e1714] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/pad-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325460_2538087
+        - text: ","
+        - link "Lip Oil" [ref=e1715] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lip-oil/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325461_2538087
+        - text: ","
+        - link "Aloe Vera Gel" [ref=e1716] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/aloe-vera-gel/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325462_2538087
+        - text: ","
+        - link "Perfume For Women" [ref=e1717] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/perfume-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325463_2538087
+        - text: ","
+        - link "Onion Oil For Hair" [ref=e1718] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/onion-oil-for-hair/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325464_2538087
+        - text: ","
+        - link "Matte Lipstick Set" [ref=e1719] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/matte-lipstick-set/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325465_2538087
+        - text: ","
+        - link "Body Mist For Women" [ref=e1720] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/body-mist-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325466_2538087
+        - text: ","
+        - link "Hair Dryer For Women" [ref=e1721] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hair-dryer-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325467_2538087
+        - text: ","
+        - link "Skin Care Products Combo" [ref=e1722] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/skin-care-products-combo/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325468_2538087
+        - text: ","
+        - link "Moisturizer Cream" [ref=e1723] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/moisturizer-cream/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325469_2538087
+        - text: ","
+        - link "Coconut Hair Oil For Women" [ref=e1724] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/coconut-hair-oil-for-women/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325470_2538087
+        - text: ","
+        - link "Electric Toothbrush" [ref=e1725] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/electric-toothbrush/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325471_2538087
+        - text: ","
+        - link "Sunscreen Cream For Oily Skin" [ref=e1726] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/sunscreen-cream-for-oily-skin/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325472_2538087
+        - text: ","
+        - link "Lafz Halal Lipstick" [ref=e1727] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lafz-halal-lipstick/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325473_2538087
+        - text: ","
+        - link "Ponds Super Light Gel Moisturizer" [ref=e1728] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/ponds-super-light-gel-moisturizer/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325474_2538087
+        - text: ","
+        - link "Capsule Lipstick Set" [ref=e1729] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/capsule-lipstick-set/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325475_2538087
+        - text: ","
+        - link "Brush Hair Dryer" [ref=e1730] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/brush-hair-dryer/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325476_2538087
+        - text: ","
+        - link "Shaver Trimmer For Men" [ref=e1731] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/shaver-trimmer-for-men/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325477_2538087
+        - text: ","
+        - link "Eyeshadow Palette" [ref=e1732] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/eyeshadow-palette/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325478_2538087
+        - text: ","
+        - link "Face Mask Pack" [ref=e1733] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/face-mask-pack/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325479_2538087
+        - text: ","
+        - link "Hair Straightener Cream" [ref=e1734] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hair-straightener-cream/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325480_2538087
+        - text: ","
+        - link "Lip Balm Chapstick" [ref=e1735] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lip-balm-chapstick/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325481_2538087
+        - text: ","
+        - link "Tea Tree Face Wash" [ref=e1736] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tea-tree-face-wash/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325482_2538087
+        - text: ","
+        - link "Glitter Nail Polish" [ref=e1737] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/glitter-nail-polish/?scm=1003.4.icms-zebra-100022982-2888506.OTHER_6502325483_2538087
+      - generic [ref=e1739]:
+        - heading "BEST-SELLING PRODUCTS" [level=4] [ref=e1740]
+        - link "Samsung Galaxy A04s" [ref=e1741] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-a04s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562514_2538089
+        - text: ","
+        - link "Oppo F17" [ref=e1742] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-f17/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562515_2538089
+        - text: ","
+        - link "realme 7i" [ref=e1743] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-7i/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562516_2538089
+        - text: ","
+        - link "Realme 7 Pro" [ref=e1744] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-7-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562517_2538089
+        - text: ","
+        - link "Realme 8 Pro" [ref=e1745] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-8-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562518_2538089
+        - text: ","
+        - link "realme Narzo 30" [ref=e1746] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-narzo-30a/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562519_2538089
+        - text: ","
+        - link "Samsung Galaxy M31" [ref=e1747] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-m31/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562520_2538089
+        - text: ","
+        - link "Vivo Y11" [ref=e1748] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y11/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562521_2538089
+        - text: ","
+        - link "Oppo F21 Pro" [ref=e1749] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-f21-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562522_2538089
+        - text: ","
+        - link "Oppo F17 Pro" [ref=e1750] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-f17-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562523_2538089
+        - text: ","
+        - link "Oppo A12" [ref=e1751] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a12/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562524_2538089
+        - text: ","
+        - link "Vivo V20" [ref=e1752] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-v20/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562525_2538089
+        - text: ","
+        - link "Infinix Hot 9" [ref=e1753] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-hot-9/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562526_2538089
+        - text: ","
+        - link "Vivo Y30" [ref=e1754] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y30/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562527_2538089
+        - text: ","
+        - link "iPhone 12 Pro Max" [ref=e1755] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/iphone-12-pro-max/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562528_2538089
+        - text: ","
+        - link "Redmi Note 10" [ref=e1756] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag-redmi-note-10/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562529_2538089
+        - text: ","
+        - link "Vivo Y20" [ref=e1757] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y20/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562530_2538089
+        - text: ","
+        - link "Samsung M02s" [ref=e1758] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m02s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562531_2538089
+        - text: ","
+        - link "Samsung M40" [ref=e1759] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m40/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562532_2538089
+        - text: ","
+        - link "Samsung A72" [ref=e1760] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a72/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562533_2538089
+        - text: ","
+        - link "Samsung A52" [ref=e1761] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a52/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562534_2538089
+        - text: ","
+        - link "Oppo A53" [ref=e1762] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a53/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562535_2538089
+        - text: ","
+        - link "Realme C21" [ref=e1763] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c21/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562536_2538089
+        - text: ","
+        - link "Realme C25" [ref=e1764] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c25/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562537_2538089
+        - text: ","
+        - link "Infinix Hot 10" [ref=e1765] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-hot-10/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562538_2538089
+        - text: ","
+        - link "Oppo A15s" [ref=e1766] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a15s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562539_2538089
+        - text: ","
+        - link "Tecno Spark 6" [ref=e1767] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tecno-spark-6/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562540_2538089
+        - text: ","
+        - link "Tecno Spark 7 Pro" [ref=e1768] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tecno-spark-7-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562541_2538089
+        - text: ","
+        - link "Oppo F19 Pro" [ref=e1769] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-f19-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562542_2538089
+        - text: ","
+        - link "Samsung Galaxy A32" [ref=e1770] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a32/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562543_2538089
+        - text: ","
+        - link "Motorola Moto G30" [ref=e1771] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/motorola-moto-g30/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562544_2538089
+        - text: ","
+        - link "Samsung Galaxy M12" [ref=e1772] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m12/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562545_2538089
+        - text: ","
+        - link "Vivo Y12a" [ref=e1773] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y12a/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562546_2538089
+        - text: ","
+        - link "Samsung Note 20 Ultra" [ref=e1774] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-note-20-ultra/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562547_2538089
+        - text: ","
+        - link "realme C20a" [ref=e1775] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c20a/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562548_2538089
+        - text: ","
+        - link "OPPO Reno 5" [ref=e1776] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-reno-5/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562549_2538089
+        - text: ","
+        - link "realme C12" [ref=e1777] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c12/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562550_2538089
+        - text: ","
+        - link "realme C15" [ref=e1778] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c15/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562551_2538089
+        - text: ","
+        - link "Samsung Galaxy Z Fold3" [ref=e1779] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-z-fold3/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562552_2538089
+        - text: ","
+        - link "Samsung Galaxy Z Flip3" [ref=e1780] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-z-flip3/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562553_2538089
+        - text: ","
+        - link "realme C25s" [ref=e1781] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c25s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562554_2538089
+        - text: ","
+        - link "Samsung A50" [ref=e1782] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a50/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562555_2538089
+        - text: ","
+        - link "OPPO A16" [ref=e1783] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a16/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562556_2538089
+        - text: ","
+        - link "Vivo X60 Pro" [ref=e1784] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-x60-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562557_2538089
+        - text: ","
+        - link "Motorola Moto G60" [ref=e1785] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/motorola-moto-g60/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562558_2538089
+        - text: ","
+        - link "realme 8 5g" [ref=e1786] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-8-5g/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562559_2538089
+        - text: ","
+        - link "Samsung Galaxy A51" [ref=e1787] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a51/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562560_2538089
+        - text: ","
+        - link "Tecno Camon 16" [ref=e1788] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tecno-camon-16/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562561_2538089
+        - text: ","
+        - link "OPPO A54" [ref=e1789] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a54/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562562_2538089
+        - text: ","
+        - link "realme GT Master Edition" [ref=e1790] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-gt-master-edition/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562563_2538089
+        - text: ","
+        - link "iPhone 13" [ref=e1791] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/iphone-13/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562564_2538089
+        - text: ","
+        - link "iPhone 13 Pro Max" [ref=e1792] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/iphone-13-pro-max/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562565_2538089
+        - text: ","
+        - link "iPhone 13 Mini" [ref=e1793] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/iphone-13-mini/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562566_2538089
+        - text: ","
+        - link "iPhone 13 Pro" [ref=e1794] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/iphone-13-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562567_2538089
+        - text: ","
+        - link "Vivo Y53s" [ref=e1795] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y53s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562568_2538089
+        - text: ","
+        - link "Samsung F22" [ref=e1796] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-f22/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562569_2538089
+        - text: ","
+        - link "realme Narzo 50i" [ref=e1797] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-narzo-50i/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562570_2538089
+        - text: ","
+        - link "Motorola G10 Power" [ref=e1798] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/motorola-g10-power/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562571_2538089
+        - text: ","
+        - link "Lenovo Tab M8" [ref=e1799] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lenovo-tab-m8/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562572_2538089
+        - text: ","
+        - link "Lenovo Tab M10" [ref=e1800] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/lenovo-tab-m10/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562573_2538089
+        - text: ","
+        - link "Huawei P40 Pro" [ref=e1801] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-p40-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562574_2538089
+        - text: ","
+        - link "Huawei Mate Pad T10" [ref=e1802] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-mate-pad-t10/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562575_2538089
+        - text: ","
+        - link "Huawei Mate Pad T" [ref=e1803] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-mate-pad-t/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562576_2538089
+        - text: ","
+        - link "Huawei Y6p" [ref=e1804] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-y6p/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562577_2538089
+        - text: ","
+        - link "Huawei Y7p" [ref=e1805] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-y7p/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562578_2538089
+        - text: ","
+        - link "Huawei Y8p" [ref=e1806] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/huawei-y8p/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562579_2538089
+        - text: ","
+        - link "OnePlus Nord CE" [ref=e1807] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oneplus-nord-ce/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562580_2538089
+        - text: ","
+        - link "OnePlus Nord 2" [ref=e1808] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oneplus-nord-2/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562581_2538089
+        - text: ","
+        - link "OnePlus 8" [ref=e1809] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oneplus-8/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562582_2538089
+        - text: ","
+        - link "Apple Airpods Pro" [ref=e1810] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/apple-airpods-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562583_2538089
+        - text: ","
+        - link "Samsung A22" [ref=e1811] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a22/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562584_2538089
+        - text: ","
+        - link "Samsung A03s" [ref=e1812] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a03s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562585_2538089
+        - text: ","
+        - link "Oppo A31" [ref=e1813] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oppo-a31/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562586_2538089
+        - text: ","
+        - link "Motorola Edge 20 Fusion" [ref=e1814] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/motorola-edge-20/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562587_2538089
+        - text: ","
+        - link "Samsung Galaxy S21 FE" [ref=e1815] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-s21-fe/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562588_2538089
+        - text: ","
+        - link "Samsung Galaxy S8 Plus" [ref=e1816] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-s8-plus/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562589_2538089
+        - text: ","
+        - link "Nokia 6" [ref=e1817] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/nokia-6/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562590_2538089
+        - text: ","
+        - link "Epson L3110 Printer" [ref=e1818] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/epson-l3110-printer/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562591_2538089
+        - text: ","
+        - link "realme C31" [ref=e1819] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c31/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562592_2538089
+        - text: ","
+        - link "Samsung Galaxy A13" [ref=e1820] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a13/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562593_2538089
+        - text: ","
+        - link "Samsung Galaxy A53" [ref=e1821] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a53/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562594_2538089
+        - text: ","
+        - link "Samsung Galaxy M62" [ref=e1822] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m62/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562595_2538089
+        - text: ","
+        - link "Oraimo Shark 3" [ref=e1823] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/oraimo-shark-3/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562596_2538089
+        - text: ","
+        - link "Samsung Galaxy A33" [ref=e1824] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a33/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562597_2538089
+        - text: ","
+        - link "Infinix Note 12" [ref=e1825] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-note-12/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562598_2538089
+        - text: ","
+        - link "Infinix Note 11" [ref=e1826] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-note-11/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562599_2538089
+        - text: ","
+        - link "Vivo Y21" [ref=e1827] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vivo-y21-price/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562600_2538089
+        - text: ","
+        - link "realme 9i" [ref=e1828] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-9i/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562601_2538089
+        - text: ","
+        - link "Infinix Hot 12" [ref=e1829] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-hot-12/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562602_2538089
+        - text: ","
+        - link "realme 2 Pro" [ref=e1830] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-2-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562603_2538089
+        - text: ","
+        - link "Xiaomi Redmi Note 11" [ref=e1831] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/redmi-note-11/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562604_2538089
+        - text: ","
+        - link "realme narzo 50a" [ref=e1832] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-narzo-50a/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562605_2538089
+        - text: ","
+        - link "realme c30" [ref=e1833] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/realme-c30-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562606_2538089
+        - text: ","
+        - link "Samsung Galaxy M33" [ref=e1834] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m33-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562607_2538089
+        - text: ","
+        - link "Samsung Galaxy A73" [ref=e1835] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-a73-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562608_2538089
+        - text: ","
+        - link "Samsung Galaxy M53" [ref=e1836] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/samsung-galaxy-m53-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562609_2538089
+        - text: ","
+        - link "Infinix Smart 6 Plus" [ref=e1837] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-smart-6-plus-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562610_2538089
+        - text: ","
+        - link "Infinix Hot 12 Play" [ref=e1838] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/infinix-hot-12-play-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562611_2538089
+        - text: ","
+        - link "Xiaomi Poco C31" [ref=e1839] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-poco-c31-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562612_2538089
+        - text: ","
+        - link "Xiaomi Redmi 10a" [ref=e1840] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-redmi-10a-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562613_2538089
+        - text: ","
+        - link "Xiaomi Redmi 10c" [ref=e1841] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-redmi-10c-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562614_2538089
+        - text: ","
+        - link "Xiaomi 12 Pro" [ref=e1842] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-12-pro-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562615_2538089
+        - text: ","
+        - link "Xiaomi Redmi A1" [ref=e1843] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-redmi-a1-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562616_2538089
+        - text: ","
+        - link "Xiaomi Redmi A1 Plus" [ref=e1844] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-redmi-a1-plus-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562617_2538089
+        - heading "TRENDING LOCAL SEARCH" [level=4] [ref=e1845]
+        - link "কানের দুলের ডিজাইন" [ref=e1846] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-womens-earrings/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562626_2538089
+        - text: ","
+        - link "বোরকা ডিজাইন" [ref=e1847] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-womens-borkas/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562627_2538089
+        - text: ","
+        - link "খাটের ডিজাইন" [ref=e1848] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-beds/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562628_2538089
+        - text: ","
+        - link "জুতা" [ref=e1849] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-mens-shoes/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562629_2538089
+        - text: ","
+        - link "মোবাইল ফোনের দাম" [ref=e1850] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-smartphones/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562630_2538089
+        - text: ","
+        - link "থ্রি পিস" [ref=e1851] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-salwar-kameez/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562631_2538089
+        - text: ","
+        - link "চটি জুতা" [ref=e1852] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-mens-sandal/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562632_2538089
+        - text: ","
+        - link "জার্সি ডিজাইন" [ref=e1853] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-boys-sports-jerseys/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562633_2538089
+        - text: ","
+        - link "মোটর সাইকেল" [ref=e1854] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-motorcycle/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562634_2538089
+        - text: ","
+        - link "শাড়ি" [ref=e1855] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-womens-sarees/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562635_2538089
+        - text: ","
+        - link "ড্রেসিং টেবিল" [ref=e1856] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-dressing-table/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562636_2538089
+        - text: ","
+        - link "হিসাব বিজ্ঞান বই" [ref=e1857] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-accounting-books/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562637_2538089
+        - text: ","
+        - link "ছেলেদের টি-শার্ট" [ref=e1858] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-mens-tshirts/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562638_2538089
+        - text: ","
+        - link "সালোয়ার কামিজ" [ref=e1859] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-salwar-kameez/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562639_2538089
+        - text: ","
+        - link "ফ্যান" [ref=e1860] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-fans/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562640_2538089
+        - text: ","
+        - link "এসি" [ref=e1861] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-air-conditioners/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562641_2538089
+        - text: ","
+        - link "এয়ার কুলার" [ref=e1862] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-portable-ac/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562642_2538089
+        - text: ","
+        - link "টেবিল ফ্যান" [ref=e1863] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-table-fans/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562643_2538089
+        - text: ","
+        - link "ফ্রিজ" [ref=e1864] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-refrigerators/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562644_2538089
+        - text: ","
+        - link "বাংলাদেশের খেলা লাইভ" [ref=e1865] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/cricket-live-streaming/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562645_2538089
+        - text: ","
+        - link "দারাজ ১১.১১ ক্যাম্পেইন" [ref=e1866] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-11-11-sale/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562646_2538089
+        - text: ","
+        - link "হেলফিট ট্যাবলেট" [ref=e1867] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-helfit/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562647_2538089
+        - text: ","
+        - link "কাতিলা গাম" [ref=e1868] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-katila-gum/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562648_2538089
+        - text: ","
+        - link "স্ক্রু ক্রিম" [ref=e1869] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-scru-cream/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562649_2538089
+        - text: ","
+        - link "ইলেকট্রিক জিনিস" [ref=e1870] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-electrical-equipment/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562650_2538089
+        - text: ","
+        - link "লাইট" [ref=e1871] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-lighting/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562651_2538089
+        - text: ","
+        - link "লুব্রিকেন্ট জেল" [ref=e1872] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-lubricant-gel/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562652_2538089
+        - text: ","
+        - link "সাবান" [ref=e1873] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-soap/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562653_2538089
+        - heading "TOP GROCERY PRODUCTS:" [level=4] [ref=e1874]
+        - link "Soyabean Oil" [ref=e1875] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/soybean-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562655_2538089
+        - text: ","
+        - link "Sunflower Oil" [ref=e1876] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/sunflower-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562656_2538089
+        - text: ","
+        - link "Olive Oil" [ref=e1877] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/olive-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562657_2538089
+        - text: ","
+        - link "Mustard Oil" [ref=e1878] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/mustard-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562658_2538089
+        - text: ","
+        - link "Coconut Oil" [ref=e1879] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/coconut-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562659_2538089
+        - text: ","
+        - link "Canola Oil" [ref=e1880] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/canola-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562660_2538089
+        - text: ","
+        - link "Ghee" [ref=e1881] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/ghee/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562661_2538089
+        - text: ","
+        - link "Castor Oil" [ref=e1882] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/castor-oil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562662_2538089
+        - heading "MOST SEARCHED PRODUCTS:" [level=4] [ref=e1883]
+        - link "Rimso Battery" [ref=e1884] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/rimso-battery/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562664_2538089
+        - text: ","
+        - link "Minoxidil" [ref=e1885] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/minoxidil/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562665_2538089
+        - text: ","
+        - link "Green Coffee" [ref=e1886] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/green-coffee/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562666_2538089
+        - text: ","
+        - link "IPS Battery" [ref=e1887] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/ips-battery/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562667_2538089
+        - text: ","
+        - link "K9 Wireless Microphone" [ref=e1888] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/k9-wireless-microphone/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562668_2538089
+        - text: ","
+        - link "Derma Roller" [ref=e1889] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/derma-roller/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562669_2538089
+        - text: ","
+        - link "Pregnancy Test Kit" [ref=e1890] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/pregnancy-test-kit/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562670_2538089
+        - text: ","
+        - link "Click Multiplug" [ref=e1891] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/click-multiplug/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562671_2538089
+        - text: ","
+        - link "DT102 Smartwatch" [ref=e1892] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/dt102-smartwatch/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562672_2538089
+        - text: ","
+        - link "Dopamine Detox" [ref=e1893] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/dopamine-detox/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562673_2538089
+        - text: ","
+        - link "Hourglass" [ref=e1894] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hourglass/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562674_2538089
+        - text: ","
+        - link "Table clock" [ref=e1895] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/table-clock/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562675_2538089
+        - text: ","
+        - link "Milk shake" [ref=e1896] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/milk-shake/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562676_2538089
+        - text: ","
+        - link "Master English Grammar Book" [ref=e1897] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/master-english-grammar-book/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562677_2538089
+        - text: ","
+        - link "TX9 Pro Android TV Box" [ref=e1898] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/tx9-pro-android-tv-box/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562678_2538089
+        - text: ","
+        - link "Redmi Note 7 Pro Battery" [ref=e1899] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/redmi-note-7-pro-battery/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562679_2538089
+        - text: ","
+        - link "Veloce Warrior 2.0" [ref=e1900] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/veloce-warrior-2.0/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562680_2538089
+        - text: ","
+        - link "Free Fire Hip Hop T-shirt" [ref=e1901] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/hip-hop-t-shirts/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562681_2538089
+        - text: ","
+        - link "M90 Pro TWS" [ref=e1902] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/m90-pro-tws/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562682_2538089
+        - text: ","
+        - link "Walton Refrigerator 176 Liter" [ref=e1903] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/walton-refrigerator-176-liter/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562683_2538089
+        - text: ","
+        - link "Nail Extension Kit" [ref=e1904] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/nail-extension-kit/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562684_2538089
+        - text: ","
+        - link "Nude Lipstick" [ref=e1905] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/nude-lipstick/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562685_2538089
+        - text: ","
+        - link "Sakura Combo Set" [ref=e1906] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/sakura-combo-set/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562686_2538089
+        - text: ","
+        - link "Proton mobile" [ref=e1907] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/proton-mobile/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562687_2538089
+        - text: ","
+        - link "Xiaomi POCO M4 Pro 4G Back Cover" [ref=e1908] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/xiaomi-poco-m4-pro-4g-back-cover/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562688_2538089
+        - text: ","
+        - link "i8 Pro Max Smartwatch" [ref=e1909] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/i8-pro-max-smartwatch/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562689_2538089
+        - text: ","
+        - link "Awei T29 Pro" [ref=e1910] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/awei-t29-pro/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562690_2538089
+        - text: ","
+        - link "Casio MCW" [ref=e1911] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/casio-mcw/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562691_2538089
+        - text: ","
+        - link "Dermadew Glow Cream" [ref=e1912] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/dermadew-glow-cream/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562692_2538089
+        - text: ","
+        - link "Shalis Perfume" [ref=e1913] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/shalis-perfume/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562693_2538089
+        - text: ","
+        - link "Katana" [ref=e1914] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/katana/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562694_2538089
+        - text: ","
+        - link "Vaseline Mosquito Defence" [ref=e1915] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/vaseline-mosquito-defence/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562695_2538089
+        - text: ","
+        - link "T55 Smart Watch" [ref=e1916] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/t55-smart-watch/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562696_2538089
+        - text: ","
+        - link "Fountain Pen" [ref=e1917] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/fountain-pen/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562697_2538089
+        - text: ","
+        - link "Binge TV Box" [ref=e1918] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/binge-tv-box/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562698_2538089
+        - text: ","
+        - link "POEDAGAR Watch" [ref=e1919] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/watches-wsj/poedagar-124351241/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562699_2538089
+        - text: ","
+        - link "SKM Leather Shoes" [ref=e1920] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/skm-leather/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562700_2538089
+        - text: ","
+        - link "Jaipan Blender 1000W" [ref=e1921] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/jaipan-blender-1000w/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562701_2538089
+        - text: ","
+        - link "ভ্যালেন্টাইন্স ডে সেল" [ref=e1922] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/bn-valentines-day-sale/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562702_2538089
+        - text: ","
+        - link "Casio FX-991EX" [ref=e1923] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/casio-fx-991ex/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562703_2538089
+        - text: ","
+        - link "Phoenix Tornado Cycle" [ref=e1924] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/phoenix-tornado-cycle/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562704_2538089
+        - text: ","
+        - link "i12 TWS" [ref=e1925] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/i12-tws/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562705_2538089
+        - text: ","
+        - link "Mehedi Design Sticker Paper" [ref=e1926] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/mehedi-design-sticker-paper/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562706_2538089
+        - text: ","
+        - link "Ponds Face Wash" [ref=e1927] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/face-wash/pond-s/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562707_2538089
+        - text: ","
+        - link "Power Bank Circuit" [ref=e1928] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/power-bank-circuit/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562708_2538089
+        - text: ","
+        - link "Black Panjabi" [ref=e1929] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/black-panjabi/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562709_2538089
+        - text: ","
+        - link "White Panjabi" [ref=e1930] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/white-panjabi/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562710_2538089
+        - text: ","
+        - link "স্মার্ট ওয়াচ" [ref=e1931] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/bn-smart-watches/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562711_2538089
+        - text: ","
+        - link "Sheet Mask" [ref=e1932] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/tag/sheet-mask/?scm=1003.4.icms-zebra-100022982-2888516.OTHER_6502562712_2538089
+        - heading "SHOP WORLDWIDE WITH LAZADA" [level=4] [ref=e1933]
+        - link "Singapore" [ref=e1934] [cursor=pointer]:
+          - /url: https://www.lazada.sg/
+        - text: ","
+        - link "Malaysia" [ref=e1935] [cursor=pointer]:
+          - /url: https://www.lazada.com.my/
+        - text: ","
+        - link "Philippines" [ref=e1936] [cursor=pointer]:
+          - /url: https://www.lazada.com.ph/
+        - text: ","
+        - link "Indonesia" [ref=e1937] [cursor=pointer]:
+          - /url: https://www.lazada.co.id/
+        - text: ","
+        - link "Vietnam" [ref=e1938] [cursor=pointer]:
+          - /url: https://www.lazada.vn/
+        - text: ","
+        - link "Thailand" [ref=e1939] [cursor=pointer]:
+          - /url: https://www.lazada.co.th/
+        - heading "SHOP WORLDWIDE WITH MIRAVIA" [level=4] [ref=e1940]
+        - link "Spain" [ref=e1941] [cursor=pointer]:
+          - /url: https://www.miravia.es/
+        - text: ","
+        - link "Portugal" [ref=e1942] [cursor=pointer]:
+          - /url: https://www.miravia.es/
+    - generic [ref=e1944]:
+      - generic [ref=e1945]:
+        - heading "Daraz International" [level=3] [ref=e1946]
+        - generic [ref=e1947]:
+          - link "pk Pakistan" [ref=e1948] [cursor=pointer]:
+            - /url: //www.daraz.pk/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735181_2485585
+            - img "pk" [ref=e1949]
+            - generic [ref=e1950]: Pakistan
+          - link "bd Bangladesh" [ref=e1951] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735171_2485585
+            - img "bd" [ref=e1952]
+            - generic [ref=e1953]: Bangladesh
+          - link "lk Sri Lanka" [ref=e1954] [cursor=pointer]:
+            - /url: //www.daraz.lk/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735173_2485585
+            - img "lk" [ref=e1955]
+            - generic [ref=e1956]: Sri Lanka
+          - link "mm Myanmar" [ref=e1957] [cursor=pointer]:
+            - /url: //www.shop.com.mm/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735176_2485585
+            - img "mm" [ref=e1958]
+            - generic [ref=e1959]: Myanmar
+          - link "np Nepal" [ref=e1960] [cursor=pointer]:
+            - /url: //www.daraz.com.np/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735178_2485585
+            - img "np" [ref=e1961]
+            - generic [ref=e1962]: Nepal
+      - generic [ref=e1963]:
+        - heading "Follow Us" [level=3] [ref=e1964]
+        - generic [ref=e1965]:
+          - link "facebook" [ref=e1966] [cursor=pointer]:
+            - /url: https://www.facebook.com/DarazBangladesh
+            - img "facebook" [ref=e1967]
+          - link "youtube" [ref=e1968] [cursor=pointer]:
+            - /url: https://www.youtube.com/@DarazBangladeshOfficial
+            - img "youtube" [ref=e1969]
+          - link "twitter" [ref=e1970] [cursor=pointer]:
+            - /url: //twitter.com/DarazBangladesh/?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239795_2580063
+            - img "twitter" [ref=e1971]
+          - link "instagram" [ref=e1972] [cursor=pointer]:
+            - /url: https://www.instagram.com/darazbangladesh/
+            - img "instagram" [ref=e1973]
+      - generic [ref=e1975]: © Daraz 2025
+```

@@ -1,1 +1,0 @@
-Logout option is visible: Login verified successfully

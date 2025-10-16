@@ -1,8 +1,17 @@
-
-# Playwright
+# Node
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
+
+# Playwright test results and reports
+test-results/
+playwright-report/
+blob-report/
+
+# Playwright caches and Allure outputs
+playwright/.cache/
+playwright/.fixtures/
+playwright/.allure-report/
+playwright/.allure-results/
+
+# Optional editor/system files
+.DS_Store
+.env

@@ -22,8 +22,8 @@ test.describe("Daraz order test", () => {
     const addProduct = new ProductAdd();
     await addProduct.productAdd(page);
   });
-  test.only("remove Product", async ({ page }) => {
-    const removeProduct = new ProductRemove();
-    await removeProduct(page);
+  test ("remove Product", async ({ page }) => {
+    const removeproduct = new ProductRemove();
+    await removeproduct.productRemove(page);
   });
 });
